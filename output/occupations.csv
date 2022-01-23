@@ -1,0 +1,4553 @@
+talk_id,occupations
+1,climate advocate
+2,inventor
+2,engineer
+3,president-elect of afghanistan
+4,aircraft engineer
+5,car designer
+6,biologist
+6,genetics pioneer
+7,technology columnist
+8,architect
+8,experience designer
+9,inventor
+10,physician
+10,author
+11,primatologist
+11,environmentalist
+12,neuroscience and cancer researcher
+13,architect
+14,experimental audio-visual artist
+16,anthropologist
+16,expert on love
+18,science writer
+18,innovation consultant
+18,conservationist
+19,digital visionary
+20,writer
+21,blogger; cofounder
+21,six apart
+22,skeptic
+23,musician
+23,activist
+25,education visionary
+26,performance poet
+26,multimedia artist
+27,industrial designer
+28,marketer and author
+29,economist
+30,economist
+31,architect
+32,artist
+33,military strategist
+34,photographer
+35,biologist
+35,nobel laureate
+36,author
+37,founder of wikipedia
+38,inventor
+38,futurist
+39,crusader against aging
+40,nature photographer
+41,tech visionary
+42,astrophysicist
+43,designer; creative director
+43,ideo
+44,philosopher
+45,violinist
+46,pianist
+46,composer
+47,physicist
+47,author
+48,inventor
+49,architect
+50,graphic designer
+51,physicist
+51,energy guru
+53,activist for environmental justice
+54,co-founder
+54,architecture for humanity
+55,filmmaker
+56,photographer
+57,biomedical inventor
+58,epidemiologist
+58,philanthropist
+59,musician
+59,activist
+60,actor
+60,playwright
+60,social critic
+61,writer
+62,global prioritizer
+63,innovation consultant
+64,playwright
+64,activist
+65,human-computer interface designer
+66,author
+66,educator
+67,mathematician; statistician
+68,journalist
+68,philosopher
+69,anthropologist
+69,ethnobotanist
+70,marketer
+70,success analyst
+71,pastor
+71,author
+72,drone maker
+73,writer
+73,thinker
+73,activist
+74,planetary futurist
+75,nonprofit venture capitalist
+76,primate authority
+77,biologist
+77,biomechanics researcher
+78,master of visual illusions
+79,founder
+79,grameenphone
+80,author
+80,academic
+80,futurist
+81,singer
+81,performance artist
+82,inventor
+83,biologist
+84,photojournalist
+85,activist
+86,actor
+86,comedian
+86,playwright
+87,web humorist
+89,polar explorer
+90,physicist
+90,personal fab pioneer
+91,investor and advocate for moral leadership
+92,global health expert; data visionary
+93,psychologist
+94,philosopher
+94,cognitive scientist
+97,psychologist; happiness expert
+98,evolutionary biologist
+99,singer/songwriter
+101,cellist; singer-songwriter
+102,philosopher
+102,cognitive scientist
+103,musician
+104,architect
+105,online commerce pioneer
+108,performance poet
+108,multimedia artist
+109,singer/songwriter
+109,electronic music pioneer
+110,singer/songwriter
+110,electronic music pioneer
+112,priest
+113,evolutionary biologist
+114,satirist
+115,musician
+115,electronic music pioneer
+116,philosopher
+116,cognitive scientist
+117,fiddler
+117,electronic music pioneer
+118,computer scientist
+118,entrepreneur and philanthropist
+118,ceo of google
+119,singer/songwriter
+121,social critic
+122,designer
+122,educator
+123,environmentalist
+123,futurist
+125,computer designer
+125,brain researcher
+126,marine biologist
+127,economist
+128,venture capitalist
+129,software architect
+130,buddhist scholar
+131,technologist
+131,digital product designer
+139,general manager of microsoft's virtual earth
+140,global health expert; data visionary
+141,explorer
+141,inventor
+141,outer space dreamer
+142,medical futurist
+143,economist
+144,artist
+144,storyteller
+144,internet anthropologist
+145,ecologist
+146,game designer
+147,medical animator
+148,performance poet
+148,multimedia artist
+149,marketing expert
+151,economist
+152,economist
+153,inventor
+154,investment banker
+155,novelist
+155,poet
+156,university founder
+157,investor and advocate for moral leadership
+158,musician
+158,activist
+159,journalist
+161,dictionary editor
+162,artist
+163,psychologist
+164,psychologist
+165,roboticist
+167,technology forecaster
+168,paleoanthropologist
+170,producer
+171,filmmaker
+172,artist
+174,architect
+175,education researcher
+176,engineer
+177,epidemiologist
+177,philanthropist
+178,planetary scientist
+179,dancer
+181,entrepreneur
+182,illustrator
+182,author
+183,dna origamist
+184,brain expert
+185,economist
+187,legal activist
+188,guitarist
+189,doctor
+190,user anthropologist
+191,monk
+191,author
+191,photographer
+192,environmental scientist
+193,author
+193,academic
+193,futurist
+194,physicist
+195,biologist
+196,technology columnist
+197,designer
+198,mathematician
+199,mathemagician
+200,psychologist
+201,connector
+202,tinkerer
+203,investor
+204,novelist
+205,filmmaker
+206,oceanographer
+207,curator of architecture and design
+208,college president
+209,social innovator
+210,artist
+211,head of ted
+212,transport networker
+213,city evangelist
+214,environmental writer
+215,illustrator
+216,digital community builder
+217,playwright
+217,activist
+218,theremin player
+219,architect
+220,kenyan mp
+221,historian of science
+222,singer/songwriter
+222,actor
+222,comedian
+222,playwright
+223,jugglers
+224,researcher
+224,astronomer
+225,venture capitalist
+227,biologist
+227,genetics pioneer
+228,educator and computing pioneer
+229,neuroanatomist
+230,tech visionary
+231,architect
+232,physicist
+232,education activist
+233,author
+233,publisher
+233,education activist
+234,religious scholar
+235,illustrator
+236,brain researcher
+237,astronomer
+237,educator
+237,skeptic
+239,filmmaker
+241,designer
+242,theoretical physicist
+243,climate advocate
+245,human-computer interaction researcher
+246,composer
+246,inventor
+246,musician
+247,legal expert
+248,ceo
+248,public radio international (pri)
+249,cardiologist
+250,novelist
+251,physicist
+252,physician
+252,author
+253,physicist
+254,band
+255,ceo
+258,mycologist
+259,evolutionary biologist
+260,juggler
+261,hacker
+263,food writer
+264,oceanographer
+266,designer
+267,sculptor
+268,doctor
+269,memeticist
+270,economist
+271,polymath
+272,psychologist
+273,anthropologist
+273,ethnobotanist
+274,social media theorist
+276,physicist
+278,historian of science
+279,artist
+280,biologist
+282,filmmaker
+285,venture capitalist
+286,conductor
+287,singer/songwriter
+288,tech visionary
+292,space activist
+294,novelist
+294,poet
+296,singer/songwriter
+297,photographer
+298,guitarist
+299,botanist and activist
+300,animating neurobiologist
+301,author
+306,physicist
+307,anthropologist
+307,expert on love
+308,preacher
+310,magician
+312,psychologist
+313,craft artist
+313,product designer
+315,paleoanthropologist
+316,artist
+316,storyteller
+316,internet anthropologist
+318,architecture critic
+319,digital visionary
+320,bioengineer
+321,origamist
+322,engineer and origamist
+322,cellist
+323,genographer
+324,director of photography
+324,national geographic
+325,singer/songwriter
+326,particle physicist
+327,close-up card magician
+328,animal behaviorist
+329,musician and inventor
+330,blogger and activist
+331,dna origamist
+333,educator
+334,african grey parrot
+335,space activist
+339,entrepreneur
+339,marketer
+340,primatologist
+340,environmentalist
+341,social psychologist
+343,oceanographer
+344,physician
+344,disaster-preparedness activist
+345,traveler
+346,digital librarian
+347,storyteller
+348,lunch lady
+349,counselor
+349,coach and baker
+350,toy designer
+351,ai pioneer
+353,angel investor
+354,psychologist
+355,roboticist
+356,graphic designer
+358,constitutional law scholar
+359,designer
+360,photojournalist
+361,game designer
+362,writer
+363,historian
+364,human beatbox
+365,civilization scholar
+366,positive psychologist
+371,physicist
+372,curator of architecture and design
+374,expert
+375,journalist
+377,physician
+377,author
+379,engineer
+381,photographer
+383,performance poet
+383,multimedia artist
+385,inventor
+385,inventor
+386,filmmaker
+388,inventor
+390,finance journalist
+391,planet walker
+392,designer
+393,nose
+394,physicist
+395,political scientist and journalist
+396,fashion designer
+399,planetary scientist
+400,comedian
+402,environmentalist
+402,futurist
+403,filmmaker
+404,astrophysicist
+405,technologist and futurist
+406,chef
+407,internet entrepreneur
+408,bioengineer
+409,writer
+410,entrepreneur
+411,automotive researcher
+412,inventor
+413,folk musician
+414,designer
+416,bee expert
+418,entrepreneur
+419,author
+420,psychologist; happiness expert
+421,cave scientist
+422,mathematician
+423,tech visionary
+424,reporter
+426,biochemist
+427,artist
+428,paleontologist
+429,inventor
+430,designer
+431,designer
+432,cartoonist
+433,baker
+434,writer
+435,designer at play
+436,type designer
+437,entrepreneur
+439,world-builder
+440,paleontologist
+441,doctor
+442,inventor
+443,athlete and actor
+445,biochemist
+447,fiddler
+450,idea guy
+451,philanthropist
+453,writer
+455,graphic designer
+457,mit grad student
+462,psychologist
+463,author
+463,academic
+463,futurist
+464,maestro
+466,ensemble
+467,oceanographer
+468,astronomer
+469,visual storyteller
+470,oceanographer
+471,ichthyologist
+472,photographer and explorer
+473,twitter co-founder
+474,designer and theorist
+475,conservationist
+476,tree researcher
+477,tv host
+480,cognitive scientist and design critic
+481,researcher
+481,director of research
+481,samsung research america
+482,athlete and actor
+483,play researcher
+483,psychiatrist
+484,inventor
+485,philosopher
+485,cognitive scientist
+487,behavioral economist
+488,maker
+488,critical thinker
+489,humorist
+490,business owner and activist
+492,inventor
+494,investor and advocate for moral leadership
+495,technology columnist
+498,coach
+499,virus hunter
+500,poet
+501,newspaper designer
+502,aerialist
+503,designer
+504,military analyst
+506,filmmaker
+507,political scientist
+509,molecular biologist
+510,philosopher-comic
+511,skeptimist
+512,green auto pioneer
+515,author
+515,thinker
+516,composer
+517,investor
+517,human guinea pig
+517,author
+518,marketer
+518,rock climber
+519,figurer
+520,designer
+521,statistician
+523,technologist
+524,cartoonist
+525,economist
+526,neuroscientist
+527,polymorphic playwright
+529,science journalist
+531,physicist
+532,physicist and military theorist
+533,astronaut
+533,engineer
+533,entrepreneur
+533,physician and educator
+534,sculptor
+535,climate advocate
+537,food and agriculture expert
+538,marketer and author
+540,global health expert; data visionary
+544,a capella ensemble
+545,technologist and visionary
+547,sustainable-business pioneer
+548,behavioral economist
+549,writer
+551,planetary scientist
+552,designer
+553,speaker and author
+554,entrepreneur
+555,first lady of the united states
+556,educator
+557,guitarist
+558,college president
+560,inventor
+560,futurist
+561,photographer
+562,publisher
+562,philanthropist
+562,poet
+563,media exec
+565,engineer
+565,executive
+566,inventor
+570,evolutionary psychologist
+571,biologist
+572,marketer
+572,success analyst
+573,biospherian
+575,social media theorist
+578,deprogrammer
+580,roboticist
+582,psychologist
+584,economist
+585,new philanthropist
+586,endurance runner
+587,mathemagician
+588,tinkerer
+589,architect
+590,artist
+591,designer
+592,development economist
+594,biochemist
+598,environmentalist
+598,futurist
+599,sculptor of light and space
+601,physician-scientist
+601,inventor
+601,entrepreneur
+602,neurobiologist
+603,anthropologist
+604,british prime minister
+605,philosopher
+606,experimental audio-visual artist
+607,aquatic ape theorist
+608,chief economist and senior vice president
+608,world bank
+610,micro-sculptor
+613,inventor
+614,science writer
+614,innovation consultant
+614,conservationist
+615,hip-hop artist
+618,career analyst
+619,wireless electrician
+620,global health expert; data visionary
+621,artist
+622,biodiversity archivist
+623,optical innovator
+625,social commentator
+626,creative technologist
+627,stuntman
+628,photographer
+629,coldwater swimmer
+630,cognitive neuroscientist
+633,underworld investigator
+634,architect
+635,producer
+637,neurological anthropologist
+639,musician
+640,net watchdog
+641,internet scientist
+642,inventor
+643,artist
+644,investor and advocate for moral leadership
+645,global strategist
+646,designer
+647,religious scholar
+648,astrophysicist
+649,graphic designer
+650,food urbanist
+651,professor of management
+652,novelist
+653,neuroscientist
+654,writer
+655,landscape ecologist
+657,robotics designer
+658,advertising guru
+659,neuroscientist
+660,sound consultant
+661,marketing whiz
+662,computer graphics pioneer
+663,conductor and leadership expert
+664,inventor
+665,economist
+665,development visionary
+666,physicist
+666,author
+667,applied scientist
+667,innovator
+669,writer
+670,mathematician
+673,spiritual leader
+674,vedantic teacher
+675,preacher
+676,chairman of the cordoba initiative
+677,buddhist scholar
+679,journalist
+679,philosopher
+680,tech anthropologist
+681,co-founder
+681,architecture for humanity
+682,atmospheric chemist
+683,photographer
+684,cultural diplomacy expert
+685,director of research
+685,samsung research america
+686,mythologist
+688,dancer
+688,actor
+688,activist
+689,politician and writer
+691,designer
+692,social entrepreneur
+694,designer
+695,global health expert; data visionary
+696,resilience leader
+698,dune architect
+700,british prime minister
+701,astronomer
+702,environmental activist
+704,anti-trafficking crusader
+705,puzzlemaster
+706,comedian
+708,cultural historian
+709,vision activist
+710,arab sexuality expert
+712,macroeconomist
+713,photographer
+714,entrepreneur
+715,marine biologist
+716,aphorist
+717,social entrepreneur
+717,lawyer
+718,physicist
+719,social entrepreneur
+723,solar adventurer
+724,brain expert
+726,x-ray visionary
+727,longevity coach
+727,explorer
+728,herpetologist
+729,jazz legend
+734,wildlife conservationist
+735,educator
+736,engineer
+738,comedian
+738,voice artist
+741,illusionist
+741,endurance artist
+743,investor
+744,surgeon
+748,health and human services expert
+750,architect
+751,playwright
+751,activist
+752,social entrepreneur
+755,entrepreneur
+757,behavioral economist
+759,healthcare revolutionary
+760,chemist
+761,cancer doctor
+762,sculptor
+762,journalist
+763,founder
+763,transparency international
+765,chef
+765,activist
+766,software architect
+767,philanthropist
+768,politician
+769,athlete and actor
+770,digital visionary
+771,legal activist
+772,cardiologist and geneticist
+773,livestock handling designer
+773,autism activist
+776,visual neuroscientist
+777,artist
+779,behavioral economics founder
+780,cricket commentator
+783,technologist
+785,director
+786,dance adventurers
+787,happiness teacher
+788,inventor
+789,venture capitalist
+790,chef
+791,adventure physician
+792,magician
+796,biochemist
+796,cell biologist
+797,social scientist
+799,game designer
+800,director and writer
+801,neuroscientist
+801,philosopher
+802,biologist
+803,executive
+803,simplicity guru
+804,planetary and atmospheric scientist
+805,violinist
+807,anti-slavery activist
+809,education activist
+811,media expert
+814,entrepreneur
+815,child prodigy
+818,author
+819,inventor
+820,roboticist
+821,educator
+823,singer/songwriter
+824,writer
+826,executive
+828,roboticist
+830,filmmaker
+831,curator
+833,marine biologist
+835,skeptic and conjuror
+836,inventor
+837,designer
+838,technologist
+838,city councilman
+842,philanthropist
+843,scientist
+843,inventor
+844,ocean rower
+845,chemist
+846,data scientist
+847,development economist
+848,leadership expert
+849,electronic music pioneer
+849,string quartet
+850,marine ecologist
+851,innovation advocate
+852,physician
+852,social scientist
+853,polymath
+854,marine ecologist
+855,educator
+856,actor
+856,comedian
+856,playwright
+859,cancer researcher
+860,journalist
+861,conservation biologist
+862,geophysicist
+863,biologist
+863,genetics pioneer
+865,author
+865,educator
+866,media maven
+868,director
+868,journalist
+869,vaccine visionary
+871,legal activist
+872,interface designer
+873,photographer
+874,founder
+874,4chan
+876,physicist
+877,creative entrepreneur
+878,political philosopher
+879,conservationist
+880,advertising guru
+881,environmentalist
+881,futurist
+881,civil and environmental engineer
+883,musician
+883,artist
+883,writer
+884,skeptic
+885,user experience master
+886,behavioral ecologist
+887,entrepreneur
+888,dancer and choreographer
+889,hospitality entrepreneur
+889,author
+891,designer
+891,illustrator
+891,typographer
+892,innovation consultant
+893,neuroscientist
+894,entrepreneur
+894,lego enthusiast
+896,social media theorist
+898,architect
+899,marine biologist
+900,scientist
+900,artist
+901,architect
+901,designer
+909,mathematician
+910,social entrepreneur
+911,tree researcher
+912,global health expert; data visionary
+914,ecologist
+914,writer
+915,rational optimist
+916,blogger
+916,digital visionary
+917,novelist
+918,internet activist
+919,creator
+919,the 99
+920,astronomer
+921,entrepreneur
+922,surgeon
+922,inventor
+924,psycho-economist
+925,marine toxicologist
+926,oceanographer
+927,cognitive psychologist
+928,coldwater swimmer
+929,market transformer
+930,author
+930,journalist
+932,game changer
+934,producer
+935,comedian
+936,entrepreneur
+937,data journalist
+938,journalist
+939,cartoonist
+940,writer
+941,online marketing whiz
+944,happiness researcher
+945,sustainability expert
+946,spiritual leader
+947,entrepreneur
+948,artist
+948,photographer
+949,education researcher
+950,artist
+951,diplomat
+952,arts administrator
+954,oceanographer
+954,biogeochemist
+955,head of ted
+957,writer
+958,physician
+958,social scientist
+959,musician
+960,artist
+961,writer
+962,hiv/aids fighter
+963,activist
+963,singer-songwriter
+964,designer
+965,sound consultant
+966,journalist
+967,computational neuroscientist
+968,analytical psychologist
+970,public health expert
+971,green designer
+972,economist
+973,marine biologist
+974,global health expert; data visionary
+975,brand strategist
+976,plant neurobiologist
+977,philanthropist
+978,building activist
+980,artist and engineer
+981,web humorist
+983,microlender
+984,food scientist
+986,artist and activist
+987,editorial cartoonist
+988,electronic music pioneer
+988,string quartet
+988,musician
+988,artist
+988,writer
+991,scientist
+991,innovator
+992,diplomat
+993,chef
+994,entomologist
+995,multimedia artist
+996,gaming theorist
+997,voting system designer
+998,oceanographer
+1000,optogeneticist
+1001,musician
+1002,humanitarian design activist
+1003,ethnic conflicts scholar
+1004,photographer
+1005,labor-rights activist
+1006,ecologist
+1007,mathematician
+1008,philosopher
+1009,computer scientist
+1009,educator
+1010,designer
+1010,educator
+1011,high seas policy advisor
+1012,neuropsychologist
+1013,activist and social entrepreneur
+1014,software entrepreneur
+1015,builder
+1016,aspiring organic farmer
+1017,mediator
+1018,ecological entomologist
+1019,product developer
+1020,green chef
+1030,change catalyst
+1031,author
+1031,educator
+1031,activist
+1032,corrections pioneer
+1033,journalist
+1034,educator
+1036,website co-founders
+1037,trust researcher
+1039,conservationists
+1039,filmmakers
+1040,coo
+1040,facebook
+1041,activist for environmental justice
+1042,vulnerability researcher
+1043,psychologist
+1044,journalist
+1045,writer
+1045,psychologist
+1046,researcher
+1047,physician
+1047,cancer researcher
+1048,thinker
+1048,writer
+1048,speaker
+1048,podcaster
+1049,nobel peace laureate
+1050,cyborg anthropologist
+1051,designer
+1052,wellness specialist
+1053,instructional designer
+1054,journalist
+1054,activist
+1055,soprano
+1056,social justice and green energy activist
+1057,scientific visualization expert
+1058,roboticist
+1059,writer
+1059,columnist
+1060,healthcare communicator
+1061,cartoonist
+1062,writer
+1064,landscape architect
+1065,tech publisher
+1066,media maven
+1067,journalist
+1067,runner
+1068,poet
+1068,playwright
+1069,author and marketer
+1070,roboticist
+1071,somali doctors who treat women refugees
+1072,architect
+1073,whistler
+1074,journalist
+1075,language
+1076,investor and advocate for moral leadership
+1077,entrepreneur
+1078,former us secretary of state
+1079,economist
+1080,facial surgeon
+1081,explorer
+1081,ethnographer
+1082,computer theorist
+1083,piano trio
+1084,journalist
+1085,street artist
+1086,internet activist and computer engineer
+1087,philanthropist
+1088,surgeon
+1089,journalist
+1090,educator and social entrepreneur
+1091,online democracy advocate
+1092,cognitive scientist
+1093,natural resources expert
+1094,op-ed columnist
+1094,author
+1095,physicist
+1096,activist
+1096,volunteer firefighter
+1098,lighting designer
+1100,poet
+1101,global health expert; data visionary
+1102,primatologist
+1103,ethicist
+1104,berkeley bionics' ceo
+1105,soprano
+1106,language teacher
+1107,security consultant
+1108,puppeteers
+1109,educator
+1109,entrepreneur
+1110,composer
+1110,conductor
+1111,educator
+1112,military leader
+1113,google fellow
+1114,filmmaker
+1115,entrepreneur
+1116,inclusivity activist
+1117,musician and activist
+1118,historian
+1119,artist and organizer
+1120,actor and writer
+1121,film critic and blogger
+1122,farmer and technologist
+1124,surgeon
+1125,sociologist
+1126,wrongologist
+1127,educator
+1129,author
+1129,journalist
+1130,entrepreneur
+1131,health policy expert
+1132,security expert
+1133,biological engineer
+1134,software engineer
+1135,toymaker
+1136,9/11 mothers
+1137,architect and engineer
+1138,designer
+1138,biofabrication pioneer
+1139,physicist
+1139,cosmologist
+1140,filmmaker
+1141,polar photographer
+1142,biomedical engineer
+1143,entrepreneur
+1144,technologist
+1145,physicist
+1146,neuroengineer
+1147,designer
+1148,pediatric anesthesiologist
+1149,marine biologist
+1150,thinker
+1152,data artist
+1153,epidemiologist
+1154,iranian visual artist
+1155,journalist
+1156,violinist
+1156,cellist
+1158,roboticist
+1159,graphic designer
+1160,physicist
+1161,designer
+1162,philosopher
+1162,entrepreneur
+1163,dinosaur digger
+1164,artist
+1165,chief economist and senior vice president
+1165,world bank
+1166,historian
+1167,communicator
+1168,physician-scientist
+1168,inventor
+1168,entrepreneur
+1169,artist and curator
+1170,entrepreneur
+1171,photographer
+1172,beatjazz inventor and controllerist
+1173,cellist
+1174,executive chair
+1174,ford motor co.
+1175,linguist
+1175,educator
+1176,cartoonist
+1177,artist
+1178,comedian
+1178,activist
+1180,computational neuroscientist
+1181,e-patient
+1182,friend of the high line
+1183,technologist
+1184,polymath
+1185,educator
+1186,author
+1186,producer
+1187,tissue engineering researcher
+1188,internet freedom activist
+1189,anti-extremism activist
+1190,economist
+1190,journalist
+1190,broadcaster
+1191,journalist
+1192,cybersecurity expert
+1193,actor
+1194,algoworld expert
+1195,designer
+1196,politician
+1197,theorist
+1198,psychologist
+1199,anti-hunger leader
+1200,sound consultant
+1201,journalist
+1202,communications technology innovator
+1203,evolutionary biologist
+1204,engineer and biodiversity scientist
+1205,playwright
+1205,activist
+1206,psychologist
+1207,planetary futurist
+1208,penguin expert
+1209,peace activist
+1210,stellar astronomer
+1211,cyber illusionist
+1212,behavioral economist
+1213,geneticist
+1214,filmmaker
+1215,inventor
+1216,author
+1216,zen priest
+1217,historian
+1218,chemist
+1219,artist
+1220,political economist
+1221,underworld investigator
+1222,artist and technologist
+1223,entrepreneur
+1224,media executive
+1226,historian
+1227,data researcher
+1227,researcher
+1228,global development worker
+1229,cancer researcher
+1230,visualizer and gamestorming
+1231,physician and author
+1232,social commentator
+1233,filmmaker
+1234,debunker
+1235,soprano
+1236,media mogul
+1236,tv host
+1237,artificial life researcher
+1238,journalist
+1239,plastics recycler
+1240,conductor
+1241,child development psychologist
+1242,journalist
+1243,designer
+1244,software entrepreneur
+1245,physicist
+1246,lie detector
+1247,artist
+1248,educator
+1249,science entrepreneur
+1250,author
+1251,biomedical engineer
+1252,artist
+1253,public health researcher
+1255,writer
+1256,research scientist
+1257,papercutter artist
+1258,privacy artist
+1259,neuroeconomist
+1260,inventor
+1261,movement expert
+1262,cyber illusionist
+1263,translator
+1263,plain language activist
+1264,chemist
+1265,artist
+1266,digital preservationist
+1267,brain scientist
+1268,tech investor
+1269,comedian
+1270,medical image maker
+1271,jetman
+1272,developer
+1272,12 year old
+1274,biochemist
+1274,geneticist
+1276,comedian
+1278,entrepreneur
+1278,author
+1279,activist
+1280,astronomer
+1281,roboticist
+1282,storyteller
+1283,filmmaker
+1284,artist
+1284,urban farmer
+1285,pro snowboarder
+1286,philosopher
+1286,entrepreneur
+1287,wrongologist
+1288,anti-torture activist
+1289,science author
+1290,science writer
+1290,dance troupe
+1291,researcher
+1292,reporter
+1293,poet
+1294,organizer
+1295,computer scientist
+1296,spider silk scientist
+1297,medical inventor
+1298,jazz vibraphonist
+1299,engineer
+1300,engineer
+1300,social entrepreneur
+1301,photographer
+1302,surgeon
+1303,environmental economist
+1304,chef
+1304,chef
+1305,education innovator
+1306,gardening activist
+1307,philosopher
+1308,neuroscientist
+1309,neuroscientist
+1310,behavioral economist
+1311,physiotherapist
+1312,author
+1313,actor and activist
+1314,diplomat
+1315,data scientist
+1317,physicist
+1318,economist
+1320,science fair winner
+1320,science fair winner
+1320,science fair winner
+1321,foreign minister of norway
+1322,biomedical animator
+1323,singer-songwriter
+1324,engineer
+1324,nuclear technologist
+1325,contemporary music ensemble
+1325,conductor
+1326,water data wrangler
+1327,philosopher
+1328,cybersecurity expert
+1329,social media theorist
+1330,psycho-economist
+1331,mathematician
+1332,nasa scientist
+1334,philosopher
+1335,3d printing entrepreneur
+1336,journalist
+1336,swimmer
+1337,physician
+1337,broadcaster
+1338,artist
+1338,scientist and entrepreneur
+1339,reporter
+1341,ceo
+1341,kiva systems
+1342,general
+1343,engineer
+1344,psychologist
+1345,medical technologist
+1346,computer theorist
+1347,ceo
+1347,presentation designer
+1348,economist
+1348,techno-activist
+1349,neuroscientist
+1350,ethicist
+1351,founder
+1351,doha film institute
+1352,dinosaur digger
+1353,photographer and retoucher
+1354,teacher
+1355,leadership educator
+1356,biologist
+1356,filmmaker
+1357,writer
+1359,healthcare innovator
+1360,marine biologist
+1361,aid worker
+1362,photographer
+1363,stellar astronomer
+1364,director of the british museum
+1365,writer
+1366,artist
+1367,economist
+1368,entrepreneur
+1369,senior editor
+1369,time magazine
+1370,computer security expert
+1371,head of culture & trends
+1371,youtube
+1372,marine biologist
+1373,fisheries biologist
+1374,writer
+1375,space activist
+1376,roboticist
+1377,quiet revolutionary
+1378,public-interest lawyer
+1379,filmmaker
+1380,climatologist
+1381,code activist
+1382,social energy entrepreneur
+1383,artist
+1383,designer
+1384,professor of economics
+1384,university of waterloo
+1385,neuroscientist
+1386,head of ted
+1387,oceanographer
+1388,maker
+1388,critical thinker
+1389,social psychologist
+1390,author
+1390,entrepreneur
+1391,vulnerability researcher
+1392,industrial designer
+1393,architect
+1394,entrepreneur and energy theorist
+1396,physician
+1397,nuclear scientist
+1398,poet
+1399,doctor
+1399,intensive care specialist
+1400,data artist
+1401,materials engineer
+1402,former director of darpa
+1403,peace activist
+1403,nobelist
+1404,engineer and artist
+1405,cyber illusionist
+1406,founder and executive director
+1406,earthspark international
+1408,marine biologist
+1408,scientific research team
+1409,cultural analyst
+1410,graphic designer
+1411,technologist
+1412,professor
+1413,body architect
+1415,performance artist
+1416,secret keeper
+1417,primatologist
+1418,philanthropist
+1419,engineer and artist
+1420,clawhammer banjo player
+1421,surgeon
+1421,writer
+1421,public health innovator
+1422,web entrepreneur
+1423,artist
+1424,psychologist
+1425,archaeological geneticist
+1426,physicist
+1427,social science researcher
+1428,educator
+1429,mayor of rio de janeiro
+1430,health activist
+1431,lawyer
+1432,game designer
+1433,designer
+1434,physicist
+1434,energy guru
+1435,kinetic sculptor
+1437,advertising guru
+1438,blogger and fashion icon
+1439,photographer
+1440,musician
+1440,conductor
+1441,technologist
+1442,natural history filmmaker
+1443,writer
+1444,skeptimist
+1445,malariologist
+1446,professor of music
+1447,cognitive neuroscientist
+1448,data researcher
+1449,designer
+1449,educator
+1450,neuroscience phd student + writer
+1451,street artist
+1452,graphic designer
+1453,marine biologist
+1454,virus hunter
+1455,global health expert; data visionary
+1456,high-wire artist
+1457,arab sexuality expert
+1458,vocalist
+1458,beatboxer
+1458,comedian
+1459,roboticist
+1460,professor
+1461,curator
+1461,rare book scholar
+1462,muslim studies scholar
+1463,designer
+1464,performance ensemble
+1465,astronomer
+1466,digital money and identity consultant
+1467,author
+1467,academic
+1467,futurist
+1468,biologist
+1469,thinker
+1470,biological miner
+1471,expert
+1472,autism researcher
+1473,reporter
+1474,journalist
+1475,health innovator
+1476,film director
+1477,satellite archaeologist + ted prize winner
+1478,journalist
+1479,skater
+1480,death penalty lawyer
+1481,health reporter
+1482,cyber illusionist
+1483,physicist
+1484,artist
+1485,biologist
+1487,computer scientist
+1488,engineer
+1489,professor
+1490,performance poet
+1490,multimedia artist
+1491,physical computing guru
+1492,digital strategist
+1494,mental health law scholar
+1495,quantum researcher
+1496,global security futurist
+1498,global health consultant
+1499,inventor
+1499,environmentalist
+1499,educator
+1500,revolutionary guitarist
+1500,artist
+1500,composer
+1501,game designer
+1503,biologist
+1505,visualizer
+1506,mechanical engineer
+1507,assistant professor
+1508,video sculptor
+1509,cancer researcher
+1510,anti-poverty activist
+1512,sonochromatic cyborg artist
+1513,navy admiral
+1514,neuroeconomist
+1516,designer
+1517,computer programmer
+1518,politician
+1518,data activist
+1519,computational architect
+1520,femto-photographer
+1521,author
+1522,beekeeper
+1523,blogger
+1524,visual effects guru
+1526,composer
+1527,dancer and choreographer
+1528,photojournalist
+1530,teacher
+1531,educator
+1532,photo retoucher
+1533,writer
+1533,entrepreneur
+1534,applied mathematician
+1535,filmmaker and remixer
+1537,artist and historian
+1538,cofounder
+1538,incredible edible
+1541,photographer
+1542,peace builder
+1543,complexity theorist
+1544,writer
+1544,filmmaker
+1545,disaster relief expert
+1545,disaster relief expert
+1546,social media theorist
+1547,public intellectual
+1548,writer
+1549,designer
+1551,sculptor
+1552,theater producer
+1553,artist
+1553,designer
+1553,urban planner
+1554,journalist
+1555,author
+1556,data intelligence agent
+1557,mental health care advocate
+1558,open-government expert
+1559,architect
+1560,forensic psychologist
+1560,expert witness
+1561,scientist and biofuel guru
+1562,stem cell research advocate
+1563,cognitive neuroscientist
+1564,sound consultant
+1565,author and activist
+1566,designer
+1566,storyteller
+1567,social justice activist
+1568,biologist
+1568,community science advocate
+1569,social psychologist
+1570,computer scientist
+1570,educator
+1571,artist
+1572,trust researcher
+1573,behavioral neuroscientist
+1574,management theorist
+1575,debunker
+1576,network author
+1577,violinist
+1578,producer
+1579,museum director
+1580,business educator
+1581,coo
+1581,mozilla foundation
+1582,mapmaker
+1583,environmental policy influencer
+1584,comedian and mental health activist
+1585,data commons advocate
+1586,lawyer
+1587,neuroscientist
+1587,student
+1588,art diagnostician
+1591,business romantic
+1592,communications teacher
+1593,globalization researcher
+1594,journalist
+1595,politician
+1596,poet and playwright
+1597,psychologist
+1597,disgust researcher
+1598,architect
+1599,development leader
+1600,writer
+1601,ceo
+1601,lumos
+1602,cyber illusionist
+1603,letter enthusiast
+1604,micro photographer
+1605,zoologist
+1606,moustache activist
+1607,happiness researcher
+1608,ceo
+1608,team rubicon
+1609,designer
+1610,raptor biologist
+1610,wildlife photographer
+1611,entrepreneur
+1612,psychologist
+1613,writer and radio producer
+1614,inventor
+1616,mechanical engineer
+1617,sustainable development expert
+1618,cognitive researcher
+1619,bluegrass musicians
+1620,transportation specialist
+1621,pilot
+1622,designer
+1623,editor
+1624,recovering politician
+1625,poet and actor
+1626,tissue engineering researcher
+1627,medicine law expert
+1628,entomologist
+1629,comedian
+1630,journalist
+1631,polar explorer
+1632,transport networker
+1633,neuroscientist
+1634,brand strategist
+1636,graphic designer
+1637,novelist
+1638,journalist
+1639,film executive
+1640,mindfulness expert
+1641,biotechnology entrepreneur
+1642,social psychologist
+1643,performance artist
+1644,author/illustrator
+1645,clinical researcher
+1646,activist
+1647,model
+1648,dermatologist
+1649,former u.s. secretary of state
+1650,proud dad
+1651,reporter
+1652,surgeon and technologist
+1653,writer
+1654,writer
+1655,science enthusiast
+1656,policy entrepreneur
+1657,computer scientist
+1658,photographer
+1659,activist
+1660,food security expert
+1661,chemist
+1663,video maker
+1664,politician
+1665,experimental micromechanics pioneer
+1666,educator
+1667,education surveyor
+1668,complex systems theorist
+1669,relationship therapist
+1670,behavioral economist
+1671,neuroscientist
+1672,educator
+1672,activist
+1673,transparency activist
+1674,biologist
+1675,writer
+1677,roboticist
+1678,education researcher
+1679,former governor of michigan
+1682,musician
+1682,blogger
+1683,grassland ecosystem pioneer
+1684,marine biologist
+1685,gardener
+1687,poet
+1688,author
+1688,speaker
+1688,reformer
+1689,neurobiologist
+1690,environmentalist
+1690,futurist
+1691,musician
+1691,activist
+1692,maker
+1693,computer theorist
+1694,activist
+1695,serial entrepreneur
+1696,geneticist
+1696,physician
+1697,composer
+1697,conductor
+1698,engineer and biodiversity scientist
+1699,inventor
+1700,macroencapsulator
+1701,behavioral economist
+1702,legal activist
+1703,ornithologist
+1704,roboticist
+1705,mechanical engineer
+1706,behavioral economist
+1707,inventor
+1708,know-it-all
+1709,robotics entrepreneur
+1710,educator
+1711,social scientist
+1712,science historian
+1713,curious journalist
+1714,neuroscientist and psychiatrist
+1715,journalist
+1716,yo-yo champion
+1717,neurosurgeon
+1718,linguist
+1719,economist
+1720,innovation researcher
+1721,artist
+1723,youtube educator
+1724,research scientist
+1725,technology columnist
+1726,corporate director
+1726,author
+1727,nuclear scientist
+1728,educator
+1729,photojournalist
+1730,author
+1730,academic
+1730,futurist
+1731,educator
+1732,education reformer
+1733,psychologist
+1734,teacher
+1735,economist
+1736,technologist
+1736,entrepreneur
+1737,poet
+1737,performer
+1737,activist
+1738,author
+1738,educator
+1739,philanthropist
+1741,clinical psychologist
+1742,computer engineer
+1743,inventor
+1744,entrepreneur
+1745,computer scientist
+1745,entrepreneur and philanthropist
+1746,philosopher
+1746,ethicist
+1747,multimedia artist
+1749,designer
+1750,violinist
+1751,evolutionary geneticist
+1752,curator of architecture and design
+1753,anti-sexism educator
+1754,energy software maker
+1755,passionate reader
+1756,writer
+1757,undercover journalist
+1758,dolphin researcher
+1759,management theorist
+1760,graphic artist
+1760,director
+1761,sexuality educator
+1762,roboticist
+1763,photographer
+1764,autonomous systems pioneer
+1765,former prime minister of greece
+1766,sci-fi author
+1767,women’s rights activist
+1768,risk economist
+1769,architect
+1770,tech entrepreneur
+1771,north korean refugee
+1772,writer
+1772,psychologist
+1773,writer
+1773,entrepreneur
+1774,surgeon
+1776,cartoon editor
+1777,paleontologist
+1778,investor and political scientist
+1779,health and technology activist
+1780,cloudspotter
+1781,designer
+1781,inventor
+1781,entrepreneur
+1782,bluegrass musicians
+1783,biologist
+1784,anti-corruption activist
+1785,architect
+1786,cognitive psychologist
+1786,musician
+1786,activist
+1786,physicist
+1786,personal fab pioneer
+1786,computer scientist
+1787,cancer detector inventor
+1788,natural sounds expert
+1789,author
+1790,bow designer
+1791,plutocracy chronicler
+1792,beatboxer
+1793,shepherd of electrons
+1794,philosopher
+1795,advertising expert
+1796,parents
+1797,author
+1797,researcher
+1797,podcaster
+1798,aircraft engineer
+1799,life saver
+1800,research psychologist
+1801,director
+1801,designer
+1802,electronic systems expert
+1803,poet and language advocate
+1804,beatboxer and inventor
+1805,philosopher
+1806,multi-sense designer
+1807,graphic designer
+1808,musician
+1808,music teacher
+1809,architect
+1810,circadian neuroscientist
+1811,science communicator
+1812,founder of the beirut marathon
+1813,neuroscientist
+1813,neuroscientist
+1814,visual artist
+1815,health psychologist
+1816,journalist
+1817,designer and storyteller
+1818,labor lawyer and activist
+1819,science writer
+1820,cybersecurity specialist
+1821,gentleman thief
+1822,bees scholar
+1823,ecologist
+1823,physicist and military theorist
+1824,bioprinting entrepreneur
+1825,political theorist
+1826,false memories scholar
+1827,neuroscientist
+1828,moral philosopher
+1829,philosopher
+1830,comedian
+1830,activist
+1831,writer
+1832,anthropologist
+1833,founder and ceo
+1833,future today institute
+1834,photographer
+1835,editor
+1836,political philosopher
+1837,business strategist
+1838,city transportation expert
+1839,political scientist
+1840,epidemiologist
+1841,editor
+1842,global economist
+1843,urban planner
+1845,biomaterials researcher
+1846,urban documentarian
+1847,journalist
+1848,privacy economist
+1849,artist
+1849,dancer
+1850,corporate innovator
+1851,emerging-markets economist
+1852,literary critic
+1853,theoretical physicist
+1854,architect and urbanist
+1855,economist
+1855,policy influencer
+1856,novelist
+1857,explorer and filmmaker
+1858,trash anthropologist
+1859,business professor
+1860,spinal cord researcher
+1861,cybersecurity expert
+1862,mathemagician
+1863,architect
+1864,human rights advocate
+1865,mayor
+1866,game designer
+1872,drones ecologist
+1873,value-based health care advocate
+1874,airborne ecologist
+1875,robotics activist
+1876,airborne logistics activist
+1877,civilization scholar
+1878,educational psychology professor
+1879,neuroscientist
+1880,monk
+1881,social investment visionary
+1882,bio researcher
+1883,political pundit
+1885,maker
+1886,colombian politician
+1886,urban activist
+1887,curious journalist
+1888,community-minded architect
+1889,cave explorer
+1890,environmental and literacy activist
+1891,philosopher
+1892,place maker
+1893,economist
+1894,writer
+1895,engineer
+1896,journalist
+1896,swimmer
+1897,social psychologist
+1898,comedian and writer
+1900,neuroscientist and science writer
+1901,financial management expert
+1902,digital humanities researcher
+1903,musician
+1904,coo
+1904,unilever
+1905,biomedical engineer
+1906,coo
+1906,facebook
+1907,curator
+1908,roboticist
+1909,arab sexuality expert
+1910,women's-health expert
+1911,consultant
+1912,musician and graphic designer
+1913,education innovator
+1914,criminal justice reformer
+1915,teen activist
+1916,animal scientist
+1917,entrepreneur
+1917,animator
+1917,philanthropist ...
+1918,violence and abuse prevention expert
+1919,satellite designer
+1920,architect and urbanist
+1921,artist
+1922,scientist
+1922,entrepreneur
+1922,inventor
+1924,producer
+1925,philosopher
+1926,sustainability strategist
+1927,sustainable investment champion
+1928,speech scientist
+1929,financial expert
+1930,leadership expert
+1931,psychologist
+1932,equality advocate
+1933,hacker
+1933,community manager
+1934,visual grammar engine inventor
+1935,regenerative neurologist
+1936,student scientist
+1937,rating agency reformer
+1938,consultant
+1939,inventor
+1939,entrepreneur
+1939,optical physicist
+1940,privacy researcher and activist
+1941,physicist
+1941,inventor
+1942,video sculptor
+1943,public policy thinker
+1944,technology writer
+1945,wild sex biologist
+1946,neuroscientist
+1947,endocrinologist
+1948,philosopher and writer
+1948,psychologist
+1949,anti-corruption activist
+1950,whistleblower
+1951,astronaut
+1952,deputy director
+1952,nsa
+1953,ceo of google
+1954,education activist
+1955,science writer
+1956,technology designer
+1957,computer scientist
+1958,security maven
+1959,bionics designer
+1959,ballroom dancer
+1960,legal activist
+1961,model and activist
+1962,amateur musicians
+1962,community director
+1963,theoretical physicist
+1964,philanthropist
+1964,philanthropist
+1965,education pioneer
+1966,urban planner
+1969,filmmaker
+1971,biomechatronics engineer
+1972,former u.s. representative and nasa astronaut; survivors
+1973,op-ed columnist
+1973,author
+1974,writer
+1976,planet finder
+1977,type designer
+1978,writer
+1979,plasma physicist
+1981,inventor
+1981,ocean swimmer
+1982,space scientist
+1983,writer
+1984,interaction designer
+1985,geneticist
+1986,sports science reporter
+1987,eye surgeon
+1987,inventor
+1988,climate scientist
+1989,polymorphic playwright
+1990,investment expert
+1991,cyber illusionist
+1992,military leader
+1993,cartoonist
+1994,music producer and dj
+1995,ecologist
+1996,academic
+1997,golden gate guardian
+1998,leadership expert
+1999,journalist and documentarian
+2000,performance poet
+2000,multimedia artist
+2001,firefly specialist
+2002,zoologist
+2003,ocean advocate
+2004,open-science advocate
+2005,writer
+2006,writer
+2007,punter and author
+2008,author
+2008,advocate
+2009,vagabond photojournalist + conceptual artist
+2010,composer
+2010,singer
+2010,author
+2010,actor
+2010,activist
+2011,philosopher
+2012,psychologist; happiness expert
+2013,poetry critic
+2014,biologist
+2015,inventor
+2015,futurist
+2016,documentary filmmaker
+2017,comedian
+2017,journalist
+2017,activist
+2018,investigative journalist
+2019,cybersecurity expert
+2020,systems biologist
+2021,author
+2022,language historian
+2023,philosopher
+2024,peace activist
+2025,author
+2026,3d printer
+2027,cruciverbalist
+2028,poet and educator
+2029,author
+2030,security researcher
+2031,poet
+2032,historian of science
+2033,music technologist
+2034,sound consultant
+2035,cybersecurity researcher
+2036,policy advisor
+2037,psychologist
+2038,actor and activist
+2039,user experience master
+2041,relentless mind
+2042,professor of international law
+2043,tech visionary
+2044,theorist
+2045,philosopher
+2046,mechanical engineer
+2047,artist
+2048,artist
+2049,web humorist
+2050,education entrepreneur
+2052,molecular animator
+2053,historian
+2054,musician
+2055,entrepreneur
+2056,statistician
+2057,prison administrator and reformer
+2059,poet
+2059,educator
+2060,civic evangelist
+2060,author
+2061,inventor
+2062,author/illustrator
+2063,photographer + storyteller
+2064,architect + ecotourism specialist
+2065,microinsurer
+2066,writer
+2067,astrophysicist
+2068,citizen journalist
+2069,astronomer
+2070,novelist
+2071,comedian + designer
+2072,writer and philosopher
+2073,political pundit
+2074,author
+2074,historian
+2075,eco-entrepreneur
+2076,physician
+2077,brain researcher
+2078,strategist
+2088,scientist
+2089,artist
+2089,visionary
+2090,global health expert; data visionary
+2090,director of the gapminder foundation
+2091,children's book author
+2092,architect
+2093,climate economist
+2094,data editor of the economist
+2095,photojournalist
+2096,emergency medical technician
+2097,environmental engineer
+2097,sanitation activist
+2098,cuban health care expert
+2099,leadership expert
+2100,pianist
+2101,economist
+2102,self-esteem advocate
+2103,neuroscientist
+2104,democracy activist
+2105,remittances expert
+2106,journalist
+2107,political mobilization activist
+2108,public-health expert
+2109,cancer technologist
+2110,voice for refugees
+2111,vagabond photojournalist + conceptual artist
+2112,data analyst
+2113,educational entrepreneur
+2114,veteran aid worker
+2115,science humorist
+2116,ocean explorer and environmentalist
+2117,nature photographer
+2118,international litigator
+2119,aerial robotics researcher
+2120,chaplain + author
+2121,activist
+2122,writer
+2124,civic entrepreneur
+2126,anti-guerrilla creative
+2127,president of mauritius
+2128,urban architect
+2129,favela painters
+2130,drug policy reformer
+2131,music icon
+2131,filmmaker
+2132,drug-resistance economist
+2133,emergency physician
+2133,public health advocate
+2134,economist
+2134,social progress expert
+2135,information security manager
+2136,storytelling activist
+2137,mother + als advocate
+2138,medical inventor
+2139,megacities expert
+2140,psychologist
+2141,amazonian ethnobotanist
+2142,human-rights activist
+2143,polar explorer
+2144,human resources expert
+2145,cardiologist
+2145,evolutionary biologist
+2146,documentary photographer
+2147,choreographer
+2148,slow television advocate
+2149,attorney + privacy advocate
+2150,technologist
+2151,diversity advocate
+2152,women’s rights activist and entrepreneur
+2153,complexity theorist
+2154,livestreaming activist
+2155,data scientist
+2156,psychologist
+2157,graffiti artist + activist
+2158,dictionary editor
+2159,research scientist
+2159,google
+2160,protector of whales
+2161,entrepreneur + educator
+2162,map researcher
+2163,poet and educator
+2164,forensic anthropologist
+2165,polar explorer
+2166,forester and sustainability activist
+2167,innovation strategist
+2168,monk
+2168,author
+2168,photographer
+2169,creative spirit
+2170,microroboticist
+2171,human resources professional
+2172,neuroscientist
+2173,social entrepreneur
+2174,peace and conflict researcher
+2175,cross-cultural consultant
+2176,techno-sociologist
+2177,epidemiologist
+2178,psychologist
+2179,designer
+2181,biologist
+2182,organizational changemaker
+2183,architect
+2184,smart product inventor
+2185,medical researcher
+2186,math educator
+2193,psychologist
+2193,author
+2194,pediatrician
+2195,photographer
+2197,space researcher
+2197,biologist
+2197,artist
+2198,consultant
+2199,data scientist
+2200,entrepreneur
+2201,microbial ecologist
+2202,investor
+2202,data scientist
+2202,entrepreneur
+2203,conservation technologist
+2204,secure email developer
+2206,magician
+2207,prison reform advocate
+2208,toy designer
+2209,poet physician
+2210,management professor
+2211,humanitarian
+2212,architect
+2213,entrepreneur
+2214,psychologist
+2215,neuroscientist
+2216,chemist
+2216,inventor
+2217,social activist
+2218,computer scientist
+2219,writer
+2220,artist
+2220,potter
+2220,community builder
+2222,story collector
+2223,entrepreneur and philanthropist
+2224,perceptual navigation specialist
+2225,philanthropist
+2226,international relations expert
+2227,stellar astronomer
+2228,immersive storyteller
+2229,behavioral economist
+2230,space explorer
+2231,photojournalist
+2232,architect
+2233,children’s rights activist
+2234,investor
+2235,planetary explorer
+2236,neuroscientist
+2236,stand-up comic
+2237,astrophysicist
+2238,paleontologist
+2239,human rights attorney
+2240,poet
+2240,educator
+2241,plant geneticist
+2242,director/choreographer
+2242,dancer
+2242,cellist
+2242,vocalist
+2242,composer and culturist
+2243,philosopher
+2244,neuroscientist
+2245,synthetic biologist
+2246,computer scientist
+2247,urban sociologist
+2248,singer-songwriter
+2249,photographer
+2250,inmates
+2251,sustainable designer
+2252,relationship therapist
+2253,digital storyteller
+2254,animal rights lawyer
+2255,surf photographer
+2256,writer
+2257,physical therapy entrepreneur
+2258,transhumanist
+2259,stratospheric explorer
+2260,exoplanet expert
+2261,pastor
+2262,mechanical engineer
+2262,social advocate
+2263,journalist
+2264,last tribes photographer
+2265,cognitive scientist
+2272,idea guy
+2273,jazz pianist
+2274,product creator
+2275,global journalist
+2276,high school principal
+2277,cognitive scientist
+2278,polymorphic playwright
+2279,computer scientist
+2280,visual artist
+2281,poet
+2282,equality advocate
+2283,writer
+2283,entrepreneur
+2284,writer
+2285,radio researcher
+2286,writer and editor
+2287,graphic designer
+2288,reporter
+2289,public health journalist
+2291,roboticist
+2292,circular economy advocate
+2293,peace activist
+2294,researcher
+2295,activist
+2296,data visualization researcher
+2297,listener
+2298,peace expert
+2299,journalist
+2300,photo editor
+2300,photographer
+2301,evolutionary biologist
+2302,writer
+2302,filmmaker
+2303,open-source engineer and artist
+2304,artist
+2305,writer
+2306,new media artist
+2307,historian
+2307,author
+2308,social observer
+2309,conflict and security researcher
+2310,advocate
+2311,political scientist
+2313,laser scientist
+2314,privacy researcher and activist
+2315,brain scientist
+2316,quantum physicist
+2317,vaccine visionary
+2318,disaster roboticist
+2319,sculptor
+2320,astronomer
+2321,consultant
+2322,social media analyst
+2323,philanthropist
+2323,mathematician
+2324,psychologist
+2325,palliative care physician
+2326,foreign policy strategist
+2327,tennis legend and activist
+2328,family activist
+2329,sociologist
+2330,writer
+2331,global leader
+2332,writer
+2332,traveler
+2333,author
+2334,photographer
+2335,anthropologist
+2336,poet and activist
+2337,education activist
+2338,author
+2338,designer
+2339,climate scholar
+2340,research scientist
+2341,writer
+2341,coach
+2341,artist ...
+2342,neural stem cell researcher
+2343,cancer physician and writer
+2344,architect
+2344,designer
+2345,singer-songwriter
+2346,roboticist
+2348,economist
+2348,social progress expert
+2349,women's health pioneer
+2351,singer-songwriter
+2352,investigative journalist
+2353,journalist
+2354,biologist
+2356,designer
+2357,sound artist
+2357,composer
+2358,voice for refugees
+2359,speleologist
+2361,neuroscientist
+2362,health activist
+2363,inventor
+2363,environmentalist
+2363,educator
+2364,innovator and social entrepreneur
+2365,artist
+2366,guitarist
+2367,wildlife conservationist
+2368,communications technology innovator
+2369,author and journalist
+2370,documentary filmmakers
+2371,sneaker data expert
+2372,activist
+2372,anthropologist
+2372,consultant
+2373,ecologist
+2373,writer
+2374,journalist and psychologist
+2375,architect
+2376,virtual reality pioneer
+2377,paleoanthropologist and rock art researcher
+2378,world champion freediver
+2379,president of the republic of kiribati
+2380,human resources expert
+2381,performance artist
+2382,writer
+2382,blogger
+2382,author
+2383,visionary inventor
+2384,strategy consultant
+2384,social entrepreneur and author
+2385,coral reef biologist
+2387,astrophysicist
+2388,fashion designer
+2389,author
+2390,ocean scientist
+2391,inventor
+2392,beatboxers
+2393,architect
+2394,actor and activist
+2394,comedian and actor
+2395,sculptor
+2396,particle physicist
+2397,secretary-general of the united nations
+2398,security researcher
+2399,psychiatrist
+2399,psychoanalyst
+2399,zen priest
+2400,internet activist and computer engineer
+2401,economist
+2401,journalist
+2401,broadcaster
+2402,astronomer
+2402,astrobiologist
+2402,actor
+2402,writer
+2403,data scientist
+2404,civil and environmental engineer
+2405,comedian and writer
+2406,chief of the community partnership division
+2406,baltimore police department
+2407,green entrepreneur
+2409,cave diver
+2410,human-computer interaction researcher and designer
+2411,writer and poet
+2412,professor of molecular and cell biology
+2413,economist and professor
+2414,marine biologist
+2414,explorer-photographer
+2415,art historian
+2416,policy expert
+2417,programmer
+2417,storyteller and illustrator
+2418,activists
+2419,roboticist
+2420,mindful addiction doctor
+2423,global economist
+2424,geoscientist
+2425,computational geneticist
+2425,infectious disease researcher
+2426,special olympics international sargent shriver global messenger
+2427,entrepreneur and conservationist
+2428,professor
+2428,author and social justice advocate
+2429,functional neurosurgeon
+2430,textual scientist
+2431,sustainable investment expert
+2433,writer
+2433,performer
+2434,conservation photographer
+2435,writer and radio host
+2436,big data techno-­optimist and internist
+2437,textile artist
+2438,writer
+2438,producer
+2439,theoretical physicist
+2440,autonomous systems pioneer
+2441,climate advocate
+2442,muslim studies scholar
+2443,entrepreneur
+2445,new york city health commissioner
+2447,designer
+2447,co-founder of airbnb
+2448,education activist
+2449,social scientist
+2451,writer
+2452,politician
+2452,environmentalist
+2453,juvenile justice reformer
+2454,product designer
+2455,radio researcher
+2456,social scientist
+2456,author
+2457,founder of callisto
+2458,blogger
+2459,founder and ceo
+2459,meta
+2460,entrepreneur
+2460,inventor
+2460,author
+2461,inventor
+2462,writer
+2463,artist and photographer
+2464,software engineer
+2465,disrupter
+2466,director of photography
+2466,pixar
+2467,medical researcher and educator
+2468,astronomer
+2469,ceo and co-founder
+2469,irelaunch
+2470,strategist
+2471,synthetic biologist
+2472,gun-control activist
+2473,author
+2473,academic
+2473,futurist
+2474,organizational psychologist
+2475,global strategist
+2476,technology forecaster
+2477,humanitarian
+2478,campaign leader
+2478,global witness
+2479,copy editor
+2480,climate advocate
+2481,musician
+2481,blogger
+2481,composer
+2481,musician
+2481,artist
+2481,composer
+2482,journalist
+2483,social entrepreneur
+2483,co-founder of menstrupedia
+2484,paleontologist
+2485,head of ted
+2486,mobile finance entrepreneur
+2487,artist
+2487,composer
+2487,engineer
+2488,fixer
+2489,financial expert
+2490,scientist
+2490,entrepreneur
+2491,asteroid hunter
+2492,researchers' dream donator
+2493,design critic
+2494,science journalist
+2495,neuroscientist
+2496,conceptual artist
+2497,author
+2497,speaker
+2497,reformer
+2498,physician
+2498,bioengineer and entrepreneur
+2499,author and playwright
+2500,entrepreneur
+2501,developmental researcher
+2502,biohacker
+2504,biomedical entrepreneur
+2505,journalist and documentarian
+2506,sex worker and activist
+2507,writer
+2507,activist and legal analyst
+2508,author
+2510,neuroscientist
+2511,artist
+2512,physician and men’s health advocate
+2513,actor and marine corps veteran
+2513,actor
+2513,drummer
+2514,ceo
+2514,gates foundation
+2515,doctor
+2515,writer and humanitarian
+2516,producer
+2516,activist
+2516,ceo
+2516,activision
+2517,narrative photographer
+2518,mathematician
+2519,technologist
+2520,technologist
+2520,entrepreneur
+2521,comedian
+2521,filmmaker
+2522,social entrepreneur
+2523,educator
+2524,peacemaker
+2525,design thinker
+2526,education innovator
+2527,immersive storyteller
+2528,geneticist
+2528,indigenous rights activist
+2529,lawyer
+2529,artist
+2529,human rights advocate
+2530,personality researcher
+2531,designer
+2531,venturer
+2532,designer
+2533,software architect
+2534,sonic astrophysicist
+2535,survivor and activist
+2536,ichthyologist
+2537,writer
+2538,singer
+2538,musician
+2538,composer
+2539,artist
+2539,graphic designer
+2539,filmmaker
+2540,sustainability crusader
+2541,architect
+2543,social scientist
+2544,nanobiotechnologist
+2545,planetary scientist
+2546,eco-entrepreneur
+2547,women's advocate
+2548,machine learning expert
+2549,strategist
+2550,space physicist
+2551,environmental writer
+2552,maker
+2552,critical thinker
+2553,investigative journalist
+2554,currency futurist
+2555,pediatric cardiologist
+2556,artist
+2557,neuroengineer
+2558,forest ecologist
+2559,designer
+2560,economist
+2561,writer
+2562,climate advocate
+2563,industrial systems thinker
+2565,palliative care physician
+2566,satellite archaeologist + ted prize winner
+2567,internet freedom activist
+2568,lawyer
+2568,coach
+2569,photographer
+2570,biotech entrepreneur
+2571,anatomical artist
+2572,media studies scholar
+2573,digital strategist
+2574,stranger enthusiast
+2575,global affairs thinker
+2576,actor
+2576,writer
+2577,comedian and writer
+2578,filmmaker
+2579,educator and social entrepreneur
+2580,journalist
+2581,bioengineer
+2582,academic
+2582,author
+2583,climate policy expert
+2584,psychologist
+2585,management researcher
+2586,educator
+2587,civic evangelist
+2587,author
+2588,author
+2589,director
+2589,choreographer
+2589,educator
+2590,anthropologist
+2590,expert on love
+2591,social geographer
+2592,neuroscientist
+2592,philosopher
+2593,biologist
+2593,community science advocate
+2594,author
+2594,entrepreneur
+2595,linguist
+2596,immigration scholar
+2597,writer
+2597,activist
+2598,author
+2599,biologist
+2599,electrical engineer
+2600,painter
+2601,organizational change expert
+2602,artistic director
+2602,dancer
+2603,creative arts therapist
+2604,trust researcher
+2605,bioelectronics innovator
+2606,techno-sociologist
+2607,peace activist
+2608,electoral consultant
+2609,global citizen
+2609,transportation geek
+2610,entrepreneur
+2611,musical explorers
+2611,musician
+2612,artist
+2612,activist
+2614,privacy researcher and activist
+2615,educator
+2615,author
+2616,educator
+2617,data activist
+2618,political theorist
+2619,business romantic
+2620,logician
+2620,mathematician
+2620,computer scientist
+2621,change catalyst
+2622,physician
+2623,technologist
+2624,psychologist
+2625,social psychologist
+2625,head of ted
+2626,blockchain entrepreneur and researcher
+2627,filmmaker
+2628,broadcast personality
+2628,politician
+2628,author
+2629,civil rights advocate
+2629,artist
+2630,writer
+2631,social psychologist
+2632,author
+2632,academic
+2632,futurist
+2633,energy scholar
+2634,writer
+2634,activist
+2634,artist
+2634,organizer
+2634,human rights activist
+2634,family activist
+2635,transgender activist
+2635,writer
+2635,educator
+2635,artist
+2636,urban planner
+2636,designer
+2636,author
+2637,digital storyteller
+2638,author
+2638,blogger
+2638,entrepreneur
+2639,rocket scientist
+2639,explorer
+2641,wellness specialist
+2642,bioethicist
+2643,rabbi
+2644,cancer researcher
+2645,digital visionary
+2646,educator
+2647,author
+2648,neuroscientist
+2648,writer
+2648,entrepreneur
+2649,writer
+2649,educator
+2650,nuclear reformer
+2651,biologist
+2652,organizational psychologist
+2653,public sector researcher
+2654,experimental particle physicist
+2655,economist
+2656,astrophysicist
+2658,sex researcher
+2659,food entrepreneur
+2660,materials scientist
+2661,writer
+2662,filmmaker
+2663,developmental and regeneration biologist
+2664,software pioneer
+2665,writer
+2665,activist
+2666,actor
+2666,activist
+2667,artist
+2668,cybercrime fighter
+2669,social psychologist
+2670,architect
+2671,designer
+2671,futurist
+2672,inventor
+2672,student scientist
+2673,satellite archaeologist + ted prize winner
+2674,data visualisation editor
+2675,legal activist
+2677,spacecraft operations engineer
+2678,writer
+2678,co-author
+2678,landscape gardener
+2679,learning expert
+2680,cancer fighter
+2681,activist
+2682,urban planner
+2683,humanitarian psychologist
+2684,guitar duo
+2685,communications researcher
+2686,writer
+2686,activist
+2687,journalist
+2688,physician
+2688,global health policy analyst
+2689,scientist
+2689,philosopher
+2690,roboticist
+2691,cultural theorist
+2692,literary scholar
+2693,drug policy expert
+2694,media researcher
+2695,historian
+2695,author
+2695,head of ted
+2696,entrepreneur
+2697,entrepreneur
+2698,pediatric psychologist
+2700,designer
+2700,artist
+2701,singer
+2701,songwriter
+2701,actress
+2701,actor
+2701,singer/songwriter
+2702,writer
+2702,radio host
+2702,comedian
+2703,writer
+2703,activist
+2704,author
+2705,poet of code
+2706,theater director
+2706,producer
+2707,progressive mortician
+2708,journalist
+2708,author
+2709,writer
+2711,pediatric icu doctor
+2712,social innovator
+2713,filmmaker
+2714,policy advisor
+2716,tv journalist
+2716,women's empowerment advocate
+2716,gospel ensemble
+2716,op-ed columnist
+2716,author
+2716,head of ted
+2718,data journalist
+2719,youth inventor
+2720,lactation researcher
+2721,epigeneticist
+2722,poet
+2723,imaging scientist
+2724,pricing consultant
+2725,information security specialist
+2726,public health sociologist
+2727,information designer
+2728,futurist
+2729,first aid instructor
+2730,bioethicist
+2730,lawyer
+2731,women's health advocate
+2732,novelist
+2733,video game designer
+2734,architect
+2735,physician
+2736,astronomer
+2737,journalist
+2738,environmental engineer
+2739,entrepreneur
+2740,autism advocate
+2741,financial literacy advocate
+2742,photographic ethnographer
+2743,designer
+2743,critic
+2744,bishop of rome
+2749,educator
+2749,researcher
+2749,writer
+2751,civic evangelist
+2751,author
+2755,molecular animator
+2757,doctor
+2757,novelist
+2757,guest host
+2757,fertility doctor
+2757,author
+2757,researcher
+2769,historian
+2770,athlete
+2770,journalist
+2771,neuroscientist
+2771,novelist
+2772,cyberspace analyst
+2774,serial entrepreneur
+2775,education entrepreneur
+2776,oceanographer
+2777,musician
+2777,poet
+2778,caregiver
+2779,neuroscientist
+2779,primatologist
+2779,writer
+2780,actor
+2780,producer
+2780,activist
+2781,ai expert
+2782,chemical oceanographer
+2783,sleep researcher
+2784,policy entrepreneur
+2784,climate expert
+2784,author
+2785,historian
+2786,mental health advocate
+2787,grandmaster
+2787,analyst
+2788,health activist
+2788,health activist
+2789,physician
+2790,band
+2790,vocalist
+2790,songwriter and producer
+2791,attorney
+2791,public-interest activist
+2792,band
+2793,molecular biologist
+2794,human justice advocate
+2795,musician
+2796,philosopher
+2797,architecture critic
+2798,ai and machine learning engineer
+2799,investor
+2799,human guinea pig
+2799,author
+2800,citizen biomedical researcher
+2801,novelist
+2801,essayist
+2802,design thinker
+2803,storyteller
+2804,founder
+2804,gravity
+2805,refugee advocate
+2806,economist
+2807,futurist
+2807,designer
+2808,inventor
+2808,designer
+2808,death care advocate
+2809,refugee activist
+2810,writer
+2810,educator
+2811,religious leader
+2812,physicist
+2812,inventor
+2813,journalist
+2813,news anchor
+2814,geoscientist
+2815,psychologist
+2816,climate scientist
+2817,cognitive neuroscientist
+2818,technology ethnographer
+2819,constitutional law scholar
+2820,business executive
+2820,entrepreneur
+2821,geneticist
+2822,physiologist
+2823,coral reef biologist
+2824,computational social scientist
+2825,roboticist
+2826,artist
+2827,architect
+2828,art editor
+2829,computer scientist
+2830,writer
+2830,peace advocate
+2831,clinical professor of law
+2833,microbiologist
+2833,inventor and strategist
+2834,journalist
+2834,podcaster
+2834,media entrepreneur
+2835,economist
+2836,cognitive neuroscientist
+2837,artist and filmmaker
+2838,musician
+2838,entrepreneur
+2839,urban designer
+2840,mayor of albuquerque
+2841,ai product designer
+2842,developmental psychologist
+2843,author
+2843,activist
+2844,student
+2844,musician
+2845,mathematician
+2845,data scientist
+2846,poet
+2846,author
+2847,entrepreneur
+2848,child protection leader
+2848,activist
+2848,author
+2849,science writer
+2850,chemical biologist
+2851,movement artist
+2851,movement artist
+2851,spoken word artist
+2851,violinist
+2851,fancy dancer
+2852,ai expert
+2853,artist
+2853,author
+2854,digital archaeologist
+2855,artist
+2856,policy researcher
+2857,filmmaker
+2857,writer
+2858,futurist
+2858,social scientist
+2859,hedge fund chair
+2860,naturalist
+2861,journalist
+2861,author
+2862,physicist
+2863,artist
+2863,musician
+2863,lawyer
+2863,activist
+2864,sociologist
+2864,human rights activist
+2865,artist
+2866,surveillance and cybersecurity counsel
+2867,border specialist
+2868,molecular biologist
+2869,astrobiologist
+2870,robotics engineer
+2871,genomics researcher
+2872,marine biologist
+2873,writer
+2873,activist
+2874,sociologist
+2874,educator
+2874,writer
+2875,chef
+2876,marketing leader
+2876,talent development leader
+2877,logistics expert
+2878,architect
+2879,journalist
+2880,artist
+2881,historian
+2881,philosopher
+2882,game designer
+2883,science journalist
+2883,editor
+2883,author
+2884,place-maker
+2885,photographer
+2886,astrophysicist
+2887,public intellectual
+2889,multimedia producer
+2890,actress
+2890,writer
+2890,producer
+2890,activist
+2891,indigenous knowledge expert
+2892,interdisciplinary artist
+2893,multicultural millenial
+2894,children’s media expert
+2895,innovation leader
+2896,journalist
+2898,technology entrepreneur
+2901,artist
+2901,educator
+3012,journalist
+3012,head of ted
+3013,neuroscientist
+3114,entrepreneur
+3136,glaciologist
+3231,biomedical engineer
+3257,artist
+3257,visionary
+3269,novelist
+3328,clinical sexologist and psychotherapist
+3362,cultural historian
+3363,author
+3363,journalist
+3364,business development manager
+3365,poet
+3365,essayist
+3366,entrepreneur
+3367,commissioner for competition
+3367,european union
+3573,futurist
+3574,entrepreneur
+3574,creative technologist
+3579,geoengineering researcher
+3581,mayor of tulsa
+3581,oklahoma
+3583,doctor
+3583,author
+3585,management consultant
+3585,diversity researcher
+3587,paleobiologist
+3590,wildlife ecologist
+3590,nature photographer and safari guide
+3591,sociologist
+3591,social psychologist
+3592,education pioneer
+3593,research ecologist
+3595,techno-sociologist
+3596,science fiction writer
+3606,perfection enthusiast
+3612,professor
+3613,digital storyteller
+3613,activist
+3614,social entrepreneur
+3614,artist
+3615,meteorologist
+3616,megacities expert
+3617,filmmaker
+3617,musician
+3618,musician
+3618,educator
+3618,entrepreneur
+3620,homeless advocate
+3623,surgeon
+3623,writer
+3623,public health innovator
+3625,writer
+3625,producer
+3625,encourager-in-chief
+3625,ted residency
+3631,craftivist
+3632,president of mauritius
+3632,journalist
+3633,educator
+3633,entrepreneur
+3633,head of ted
+3642,human-centered strategist
+3671,serial entrepreneur
+3671,investor
+3680,tv journalist
+3680,women's empowerment advocate
+3686,sleep scientist
+3694,robotics entrepreneur
+3769,youtuber
+3891,zoologist
+3891,venom researcher
+4062,lettering designer
+4366,criminal and social justice reform advocate
+4463,psychologist
+4463,economist
+4490,restaurateur
+4490,dangerous woman
+4539,professor of marketing
+4669,behavioral economist
+4669,neuroscientist
+4755,actor
+4755,filmmaker
+4755,social entrepreneur
+4856,nurse. writer. realistic idealist.
+4873,creator
+4958,radiation scientist
+5072,food activist
+5116,space physicist
+5162,retail expert
+5351,mental health awareness advocate
+5451,neuroengineer
+5458,designer
+5480,inventor
+5498,urbanist
+5655,freelance journalist
+5655,writer
+5655,editor
+5990,voice expert
+6234,media analytics expert
+6235,brand protection manager
+6286,architect
+6286,technologist
+6287,poet
+6287,lyricist
+6287,screenwriter
+6298,domestic peace advocate
+6298,technologist
+6298,activist
+6379,transport entrepreneur
+6477,surgeon
+6477,entrepreneur
+6493,curator
+6493,photographer
+6493,artist
+6496,architect
+6553,essayist
+6553,poet
+6594,serial entrepreneur
+6602,environmental policy expert
+6639,journalist
+6639,filmmaker
+6639,writer
+6668,art fair curator
+6669,conservation biologist
+6671,prison reform advocate
+6672,mosquito scientist
+7060,technologist
+7394,fashion designer
+7395,human rights activist
+7592,cultural historian
+8227,organizational psychologist
+8298,counter-extremism specialist
+8417,technology innovator
+8418,water conservation activist
+8419,neuroscientist
+8419,psychologist
+8419,author
+8420,environmentalist
+8420,futurist
+8420,head of ted
+8421,legal empowerment advocate
+8422,record digger
+8422,dj
+8422,music entrepreneur
+8423,behavioral and learning scientist
+8529,space entrepreneur
+8530,author
+8530,addiction treatment specialist
+8588,musician
+8588,artist
+8589,patient advocate
+8606,visualizer
+8606,lecturer
+8779,author
+8779,peace activist
+8779,peace activist
+8780,social scientist
+8786,infectious disease specialist
+8786,molecular epidemiologist
+8787,aerial photographer
+8788,plastics alchemist
+8799,politician
+8799,energy optimist
+8866,social impact strategist
+8947,artist
+8947,poet
+8947,author
+9033,marine biologist
+9048,entrepreneur
+9125,general counsel
+9125,author
+9125,"""idea acupuncturist"""
+9126,doctor
+9126,writer
+9126,medical student
+9126,writer
+9214,web developer
+9219,project and change professional
+9296,marine microbiologist
+9403,agriculturalist
+9403,social entrepreneur
+9463,psychologist
+9463,researcher
+9463,author
+9464,investor
+9464,entrepreneur
+9473,space engineer and development scholar
+9636,writer
+9636,youth worker
+9636,freedom fighter
+9687,design ambassador
+9781,political scientist
+9807,activist
+9807,lawyer
+9807,filmmaker
+9930,material researcher
+9951,economist
+9982,business developer
+9983,strategic marketer
+9984,theoretical biologist
+9985,blues musician
+9985,graphic designer
+9986,education entrepreneur
+9987,psychologist
+9987,author
+9988,businessman
+9988,fairness crusader
+9989,designer
+9989,writer
+9989,musician
+9989,lawyer
+10173,writer
+10190,educator
+10193,fashion enthusiast
+10266,social entrepreneur
+10274,journalist
+10274,author
+10358,organizational psychologist
+10360,ai research scientist
+10361,experimental psychologist
+10362,neuroscientist
+10362,author
+10376,psychiatrist
+10378,urban refugee expert
+10550,entrepreneur
+10550,talent expert
+10666,racial literacy leader
+10681,curator
+10681,blogger
+10681,media consultant
+10681,photographer
+10681,theatre-maker
+10681,performer
+10727,poet
+10727,playwright
+10727,pop culture enthusiast
+10727,writer
+10727,performer
+10727,private investigator
+10750,fashion revolutionary
+10802,software programmer
+10807,comedian
+10807,science fan
+10835,writer
+10835,social worker
+10975,ai researcher
+11008,it manager
+11087,athlete
+11087,activist
+11089,artist
+11199,journalist
+11199,activist
+11226,radio glaciologist
+11327,physicist
+11337,designer
+11337,urbanist
+11337,social change agent
+11363,activist
+11486,activist
+11486,architect
+11486,artist
+11684,cell engineer
+11684,master inventor
+11685,women's rights activist
+11720,writer
+11720,performer
+11869,educator
+11869,comedian
+11869,social entrepreneur
+11869,author
+11871,author
+11871,helpline advocate
+11976,visual storyteller
+11997,playwright
+11997,filmmaker
+12060,audio documentarian
+12066,neuroscientist
+12202,social innovation expert
+12302,doctor
+12303,publisher
+12346,designer
+12346,critic
+12347,curator of architecture and design
+12348,author
+12348,pencil store owner
+12349,journalist
+12350,ethnomusicologist
+12351,fashion designer
+12352,architect
+12352,experience designer
+12353,user experience master
+12354,political pundit
+12370,human rights activist
+12385,maker
+12409,disability rights activist
+12459,singer-songwriter
+12498,designer
+12498,researcher
+12501,encryption expert
+12571,journalist
+12571,screenwriter
+12727,cognitive scientist
+12799,computer theorist
+12800,tribal attorney and advocate
+12803,afro-pop innovators
+12829,numbers romantic
+12908,writer
+12908,teacher
+12908,community organizer
+12983,international trade expert
+13000,material innovator
+13009,chef
+13009,activist
+13010,street artist
+13011,religious scholar
+13012,physician
+13013,satellite archaeologist + ted prize winner
+13022,arts curator
+13022,activist
+13029,marine scientist
+13029,educator
+13035,cultural media builder
+13055,cartoonist
+13055,educator
+13062,mycologist
+13195,biomedical engineering professor
+13217,lawyer
+13247,epidemiologist
+13247,physician
+13247,public health expert
+13316,entrepreneur
+13340,author
+13464,digital housing developer
+13465,educator
+13476,author
+13476,activist
+13517,leadership expert
+13518,lawyer
+13518,human rights activist
+13523,psychologist
+13523,cognitive scientist
+13584,journalist
+13585,author
+13586,educator
+13587,activist
+13588,body activist
+13588,model
+13591,drummer
+13591,percussionist
+13720,research investigator
+13778,chef
+13778,humanitarian
+13828,social entrepreneur
+13828,student activist
+13828,social entrepreneur
+13828,student activist
+13834,storyteller
+13834,human rights advocate
+13878,male reproductive health expert
+13923,creative director
+13923,set designer
+14392,investigative journalist
+14392,author
+14439,scientist
+14439,musician
+14439,visual artist
+14439,author
+14471,public defender
+14471,activist
+14484,advocate for visually impaired people
+14485,ocean scientist
+14485,inventor
+14485,explorer
+14486,environmentalist
+14486,lawyer
+14491,health activist
+14491,health activist
+14608,educator
+14613,crusader for dialogue
+14614,actress
+14614,performance artist
+14614,motivational speaker
+14615,space leader
+14615,head of ted
+15112,singer
+15149,victims' rights attorney
+15214,writer
+15214,performer
+15274,psychologist
+15275,politician
+15275,scientist
+15284,digital storyteller
+15289,librarian
+15290,primatologist
+15398,social artist
+15420,artist
+15420,activist
+15452,ear surgeon
+15471,culture builder
+15518,inventor
+15518,robotics enthusiast
+15531,applied physicist
+15531,engineer
+15536,scientist
+15537,renegade economist
+15553,humanitarian aid entrepreneur
+15555,philosopher-comic
+15722,designer
+15722,author
+15813,sex educator
+15814,cellist
+15862,life preserver
+16014,writer
+16159,historian
+16159,author
+16294,investor
+16782,organic chemist
+16913,entrepreneur
+16913,philanthropist
+16913,head of ted
+16960,philosopher
+16985,journalist
+17023,journalist
+17237,geopolitical technologist
+17238,bionics designer
+17239,neuroscientist
+17239,technologist
+17240,forensic anthropologist
+17275,theater director
+17603,journalist
+17603,editor
+17697,neuroscientist
+17698,neuroscientist
+17699,neuroscientist
+17711,neuroscientist
+17712,neuroscientist
+17713,neuroscientist
+17733,marine ecologist
+17845,chef
+17846,advocate
+17846,artist
+17850,marine ecologist
+17851,scientist
+17851,author
+17909,publicist
+17909,strategist and music advocate
+17922,venture capitalist
+18094,ichthyologist
+18190,neuroscientist
+18190,stand-up comic
+18219,biomedical engineer
+18394,mental health specialist
+18469,artist
+18469,writer
+18517,architect
+18517,author
+18592,engineer
+18592,bridge designer
+18928,astronomer
+18928,astrobiologist
+19140,science journalist
+19175,bioethicist
+19266,agricultural leader
+19322,flight junkie
+19330,conservation biologist
+19413,visual artist
+19413,cellist
+19461,media executive
+19478,microbial oceanographer
+19478,author
+19535,computational microbiologist
+19714,investor
+19727,developmental psychology professor
+19727,researcher
+19740,genome writer
+19756,chemical engineer
+19831,neuroscientist
+19831,writer
+19831,entrepreneur
+19851,technologist
+19883,author
+19883,advocate
+19927,technology journalist
+19927,artist
+19927,investigative journalist
+19927,engineer
+19992,journalist
+19992,writer
+19992,filmmaker
+19995,singer-songwriter
+19995,banjoist
+19995,songwriter
+19995,performer
+20008,medical technologist
+20082,pediatrician
+20082,social entrepreneur
+20083,entrepreneur
+20083,podcaster
+20083,storyteller
+20084,sex educator
+20085,computer scientist
+20086,author
+20086,youtuber
+20087,novelist
+20088,social psychologist
+20089,illustrator
+20089,artist
+20089,author
+20101,writer
+20101,scientist
+20172,community servant
+20173,poet
+20259,architect
+20268,oncologist
+20268,tobacco-free advocate
+20269,creative director
+20310,moral philosopher
+20310,writer
+20365,designer
+20368,investor
+20368,computer scientist
+20390,analytical chemist
+20447,space scientist
+20475,banker
+20475,social entrepreneur
+20519,cognitive scientist
+20554,performer
+20554,mentor
+20633,brass ensemble
+20692,geneticist
+20753,astrophysicist
+20757,craft curator
+20779,action and hardware architect
+20919,cancer fighter
+20974,psychological scientist
+20975,explorer
+20975,collaboration catalyst
+20975,human rights lawyer
+20975,activist
+21017,educator
+21033,teacher
+21039,model
+21117,anthropologist
+21117,venture capitalist
+21148,research leader and ancient dna specialist
+21150,biological anthropologist
+21307,author
+21307,entrepreneur
+21584,visual artist
+21645,child advocate
+21645,social scientist
+21646,environmental data scientist
+21752,money coach
+21753,band
+21768,author
+21768,entrepreneur
+21802,inclusion advocate
+21802,speechwriter
+21803,inventor
+21803,entrepreneur
+21803,optical physicist
+21804,ai and music entrepreneur
+21900,student
+21972,author/protecther
+21976,biologist
+21976,geneticist
+22628,science journalist
+22701,reproductive psychiatrist
+22703,singer
+22704,conflict and security researcher
+22752,archaeologist
+22752,museum curator
+22799,singer-songwriter
+22817,roboticist
+22919,interactive storyteller
+22947,shepherd of electrons
+22979,regenerative tissue engineer
+22992,photojournalist
+22992,filmmaker
+23058,chemist
+23058,synthetic biologist
+23087,information designer
+23088,attorney
+23088,government affairs professional
+23089,eye surgeon
+23089,inventor
+23129,environmental justice advocate
+23174,law enforcement professional
+23413,equal housing maven
+23416,author of mcmansionhell
+23421,entrepreneur
+23421,writer
+23466,model
+23466,actor & activist
+23515,prosecutor
+23583,science communicator
+23583,games specialist
+23658,designer
+23684,compositor
+23713,health innovator
+23714,head of ted
+23716,head of ted
+23723,teacher
+23724,secondary school english literature educator @tcis
+23736,astronomer
+23773,assistant professor of cognitive science and neuroscience at the university of california at san diego
+23806,engineer and biodiversity scientist
+23862,physics + education
+23878,physics
+23879,physicist
+23880,physics + communication
+23938,linguist
+23958,photographer
+23976,stellar astronomer
+23979,linguist
+24019,author
+24019,educator
+24019,speaker
+24045,ecologist
+24063,producer
+24067,biologist
+24091,ecologist
+24119,physicist
+24131,physicist
+24138,data scientist
+24275,journalist
+24354,conflict and security researcher
+24392,co-founder of ​telebuddy
+24490,quantum physicist
+24490,equity advocate
+24492,jpl education specialist
+24509,marine biologist
+24689,psychologist
+24725,infectious disease doctor
+24727,journalist
+24727,author
+24865,visual artist
+24865,cellist
+24922,health care futurist
+25029,brand creator
+25054,fraud researcher
+25054,documentary filmmaker
+25241,physician-scientist
+25241,inventor
+25241,entrepreneur
+25335,global citizen
+25335,transportation geek
+25368,global supply chain leader
+25572,writer
+25572,advocate
+25595,management professor
+25595,researcher
+25601,hospitality entrepreneur
+25601,author
+25671,rock climber
+25727,journalist
+25727,activist
+26072,sustainability expert
+26073,robot ethicist
+26074,astrophysicist
+26074,musician
+26076,neuroscientist
+26257,entrepreneur
+26257,explorer
+26262,finance professor
+26262,editor
+26264,child advocate
+26265,dj collective
+26333,investment agitator
+26570,psychological scientist
+26707,technologist
+26707,entrepreneur
+26707,editorial director and curator
+26707,ted institute
+26708,political scientist
+26708,professor
+26727,bridge builder
+26727,author
+26779,community engagement specialist
+26913,web developer
+26915,author
+26915,social psychologist
+26918,redistricting advocate
+26921,energy storyteller
+26922,information security researcher
+26926,film producer
+26946,economist
+26946,social progress expert
+27105,biotech entrepreneur
+27155,research scientist
+27173,author
+27219,physicist
+27383,business strategist
+27383,champion debater
+27608,political theorist
+27608,author
+27622,entrepreneur
+27692,technology mentor
+27750,librarian
+27793,systems strategist
+27793,coalition-builder
+27846,visual educator
+27951,comics writer
+27951,comics artist
+27951,comics creator
+27951,editor
+27951,publisher
+27952,comics creator
+27952,editor
+27952,senior publishing executive
+28050,legal scholar
+28050,ethicist
+28104,audio/video editor
+28104,charity worker
+28164,writer
+28236,media theorist
+28236,author
+28318,stratification economist
+28429,meteorologist
+28438,leadership development expert
+28518,transformation expert
+28521,writer
+28521,consultant
+28953,musician
+28953,activist
+28953,sign language interpreter
+29009,photographer
+29063,organizational psychologist
+29064,civil rights activist
+29185,politician
+29263,activist
+29265,structural biologist
+29391,language mentor
+29413,engineer
+29413,inventor
+29414,educator
+29521,civic engagement champion
+29523,business executive
+29523,author
+29688,técnica agropecuaria y agroalimentaria
+29746,formulation scientist
+29775,humanitarian warrior
+29779,afro-latina researcher and curator
+29949,activist
+29949,scholar
+29949,educator
+29968,climate scientist
+30108,visual artist
+30161,researcher
+30295,producer
+30296,publisher
+30297,research scientist
+30300,quantum physicist
+30300,equity advocate
+30301,activist
+30527,religious leader
+30527,counselor
+30527,advocate
+30527,religious leader
+30527,storyteller
+30821,behavioral scientist
+31121,sound geneticist
+31121,musician
+31121,acoustic engineer
+31235,equity visionary
+31240,democratizer
+31375,psychiatrist
+31376,artist
+31377,inventor
+31441,author
+31441,social justice scholar
+31455,writer
+31455,environmentalist
+31459,writer
+31466,urban landscape architect
+31628,artist
+31630,economist
+31630,journalist
+31630,broadcaster
+31633,writer
+31633,activist
+31700,women's rights activist
+31745,technologist
+31812,child advocate
+31812,dangerous woman
+31813,artist
+31813,activist
+31813,author
+31814,scientist
+31814,engineer
+31821,architect
+31849,engineer
+31849,educator
+32015,technology developer
+32035,technologist
+32071,beatboxer
+32071,ear
+32071,nose and throat surgeon
+32189,organizational ethnographer
+32190,haptic designer
+32250,architect
+32265,wife
+32265,mother
+32265,grandmother
+32265,friend
+32267,physicist
+32269,journalist
+32389,podcaster
+32389,marketer
+32412,social activist
+32414,physician
+32422,poet
+32422,educator
+32422,cultural worker
+32422,organizer
+32422,artist
+32422,cultural critic
+32555,artist
+32555,photographer
+32556,peer educator
+32557,science communicator
+32557,writer
+32557,speaker
+32560,climate activist
+33778,author
+33778,maven
+33798,activist
+33798,performance artist
+33798,social entrepreneur
+33801,sleep and noise researcher
+33880,venture capitalist
+33880,editorial director and curator
+33880,ted institute
+33881,writer
+33881,activist
+33885,rural social worker
+33924,author
+33924,academic
+33924,futurist
+34214,journalist
+34214,author
+34369,journalist
+35351,civil rights activist
+35351,community organizer
+35352,haptic designer
+35353,paleoanthropologist
+35401,dementia-care visionary
+35497,architect
+35563,educator
+35565,activist
+35565,writer
+35605,paleontologist - head of the school of biological sciences at the university of bristol.
+35621,philosopher
+35621,author
+35621,entrepreneur
+35764,engineer
+35764,entrepreneur
+35766,bench scientist
+35766,bioinformatician
+35767,educator
+35767,activist
+35945,musicians
+36063,entrepreneur
+36063,investor
+36110,creative activist
+36110,social entrepreneur
+36409,mathematician
+36409,pianist
+36411,social and personality psychologist
+36415,educator
+36416,planetary scientist
+36478,singer-songwriter
+36479,ai technologist
+36659,actor
+36659,activist
+36762,astronomer
+36811,psychologist
+37137,nanophysicist
+37137,entrepreneur
+37225,beekeeper
+37346,solar designer
+37382,musician
+37442,maverick producer
+37467,journalist
+37498,author
+37498,podcast host
+37661,neuropsychologist
+37739,neuroscientist
+37739,pediatrician
+37746,physician
+37746,scientist
+37760,psychology researcher
+37787,community organizer
+37787,entrepreneur
+37800,change catalyst
+37800,editorial director and curator
+37800,ted institute
+37856,doctor
+37856,dedicated to scientific research at the european space agency
+37861,economist
+37986,roboticist
+37986,mechanical engineer
+38072,scientist
+38072,inventor
+38072,entrepreneur
+38075,cognitive scientist
+38076,author
+38076,policy analyst
+38078,writer
+38078,producer
+38078,journalist
+38079,justice and education scholar
+38079,activist
+38268,social psychologist
+38297,environmental entrepreneur
+38913,biobehavioral scientist
+39096,activist
+39236,scholar
+39331,investigative journalist
+39498,entrepreneur
+39498,programmer
+39498,head of ted
+39498,ted current affairs curator
+39503,astrophysicist
+39584,behavioral biologist
+39689,chemical biologist
+39941,plant geneticist
+39981,happiness researcher
+40181,serious comedian
+40201,artist
+40201,designer
+40540,technologist
+40635,writer
+40636,scientist
+40636,inventor
+40636,designer
+40727,civic evangelist
+40727,author
+40767,zoologist
+40767,author
+40767,explorer
+40930,op-ed columnist
+40930,author
+40949,chemist
+40949,visual artist
+41038,theoretical astrophysicist
+41105,sleep scientist
+41105,professor
+41105,author
+41224,computer graphics software researcher
+41225,yogurt maker
+41225,humanitarian
+41333,model
+41333,activist
+41338,comedian
+41353,relationship revolutionary
+41395,actor
+41395,director
+41395,producer
+41395,activist
+41404,astrophysicist
+41455,activist
+41455,educator
+41455,writer
+41457,senior researcher assistant
+41570,food innovator
+41652,marine biologist
+41678,writer
+41678,activist
+41678,comedian
+41764,marine biologist
+41874,motivational speaker
+41917,psychologist
+42423,conflict mediator
+42423,author
+42424,divinity professor
+42424,author
+42464,spoken word poet
+42488,architect
+42604,marine microbiologist
+42629,politician
+42698,theoretical physicist
+42700,assistant professor of neurobiology
+42702,former national park ranger
+42783,poet
+42783,educator
+42931,author
+42931,entrepreneur
+42946,artist
+43183,ancient technology architect
+43200,digital creator
+43293,teacher
+43293,writer
+43293,lawyer
+43333,mayor of the city of stockton
+43333,california
+43362,poet
+43379,science advocate
+43407,computational biologist
+43755,biologist
+43755,medical entomologist
+43852,author
+43852,diplomat
+43852,academic
+43932,astrobiologist
+43932,synthetic biologist
+43933,ceo
+43933,community clothing
+44040,writer
+44040,teacher
+44040,activist
+44200,biological anthropologist
+44200,writer
+44201,associate professor in marine biology & global change
+44202,president of sierra leone
+44204,venture investor
+44204,writer
+44259,food enthusiast
+44259,dishwasher
+44266,space environmentalist
+44339,social psychologist
+44372,psychedelics researcher
+44373,neurosurgeon
+44386,distinguished professor of neuroeconomics
+44696,screenwriter
+44696,author
+44696,artist
+44698,conservationist
+44698,dog trainer
+44823,robotician
+44829,actor
+44829,producer
+44829,writer
+44912,psychological illusionist
+44912,author
+45045,community organizer
+45233,director
+45233,journalist
+45407,physician
+45407,public health advocate
+45411,maternal health reformer
+45412,filmmaker
+45412,writer
+45466,architect
+45466,urbanist
+45612,police captain
+45613,journalist
+45613,author
+45614,network scientist
+45837,journalism entrepreneur
+45838,documentary filmmaker
+45969,refugee and immigrants rights attorney
+45970,designer
+45970,writer and historian of typography
+45971,obituaries editor
+45972,early education innovator
+45973,actor
+45973,filmmaker
+45973,entrepreneur
+46074,writer
+46074,performer
+46250,paleoanthropologist
+46250,stand-up comic
+46383,soil scientist
+46384,undersea explorer
+46384,investor
+46384,science curator
+46384,author
+46385,science storyteller
+46385,author
+46385,broadcaster
+46386,sociologist
+46386,educator
+46386,writer
+46453,professor of neuroscience and of music
+46456,conductor
+46456,pianist
+46459,educator
+46459,researcher
+46459,writer
+46462,psychologist
+46522,writer
+46526,scuba instructor
+46526,shark diver
+46526,marine biologist & model
+46528,oncologist
+46528,researcher
+46528,professor
+46535,justice scientist
+46536,social entrepreneur
+46575,activist
+46577,politician
+46577,environmentalist
+46580,journalist
+46582,first minister of scotland
+46583,microbiology maverick
+46585,writer
+46585,entrepreneur
+46587,author
+46589,documentary photographer
+46589,filmmaker
+46589,visual artist
+46594,child safety advocate
+46595,climate innovation activist
+46597,rapper
+46597,singer and writer
+46598,human rights activist
+46599,broadcast journalist
+46599,diversity advocate
+46600,writer
+48102,online democracy advocate
+48103,journalist
+48104,social entrepreneur
+48266,journalist
+48493,public health researcher
+48495,climate activist
+48498,environmentalist
+48499,social entrepreneur
+48532,law professor
+48532,deepfake scholar
+48545,entrepreneur
+48610,cross-disciplinary scientist
+48627,student
+48638,fashion designer
+48665,improvisor
+48665,facilitator
+48665,teacher
+48847,entrepreneur
+48847,investor
+48848,physician
+48848,writer
+48854,editorial cartoonist
+48857,musician
+48858,public health researcher
+48919,energy scientist
+49002,language creator
+49002,writer
+49002,artist
+49046,innovation researcher
+49067,water data wrangler
+49114,computational biologist
+49114,activist
+49131,ai researcher
+49136,programador
+49163,artist
+49205,computational geneticist
+49221,misinformation expert
+49281,fishing cat conservationist
+49356,sex educator
+49358,artist
+49359,labor entrepreneur
+49398,marine biologist
+49424,politician
+49424,criminal justice reformer
+49429,producer
+49433,astrobiologist
+49435,lion conservationist
+49438,botanist
+49440,neuroscientist
+49732,entrepreneur
+49732,head of ted
+49735,entrepreneur
+49735,coder
+49989,dancer
+49989,choreographer
+49989,dance company
+50058,archaeologist
+50574,storyteller
+50586,nanotechnologist
+50637,biotech entrepreneur
+50638,biologist
+50638,medical entomologist
+50640,neuroscientist
+50640,circus arts entertainers
+50657,author
+50657,academic
+50657,futurist
+50755,producer
+50791,scientist
+50791,engineer
+50792,physicist
+50792,author
+50793,social worker
+50793,psychologist
+50793,researcher
+50853,animal-borne disease researcher
+50854,human rights protector
+50855,behavioral economist
+50855,health policy expert
+50856,psychotherapist
+50856,author
+50857,scholar
+50857,artist
+50930,public sector strategist
+50956,cryptographer
+50957,behavioral economist
+50958,historian
+50959,computational biologist
+50982,rocket entrepreneur
+50988,artist and creative technologist
+50989,ocean conservationist
+50989,entrepreneur
+50990,law professor
+51070,architect
+51070,artist
+51071,filmmaker
+51071,theater director
+51071,musician
+51071,author
+51071,scriptwriter
+51071,theater and film director
+51101,electrochemist
+51105,language activist
+51449,cyber illusionist
+51452,physician
+51538,evolutionary biologist
+51634,leaders of the yawanawá
+51698,corporate sustainability expert
+51996,historian
+51996,writer
+51997,open water swimmer
+52061,astronaut
+52062,immigration attorney
+52073,marketing expert
+52188,visual artist
+52190,educator
+52194,evolutionary anthropologist
+52268,business leader
+52269,designer
+52269,biofabrication pioneer
+52270,digital markets expert
+52271,management consultant
+52395,entrepreneur
+52396,artist
+52396,researcher
+52397,business executive
+52397,"""co-conspirator"""
+52463,nuclear security expert
+52464,development strategist
+52465,entrepreneur
+52465,supply chain innovator
+52466,molecular engineer
+52467,microbiome researcher
+52468,enzyme engineer
+52469,entrepreneur
+52490,multimedia artist
+52673,philosopher
+52673,head of ted
+52752,planetary astronomer
+52811,producer
+52819,social entrepreneur
+52942,bióloga
+53024,management consultant
+53059,social psychologist
+53211,anthropologist
+53211,social scientist
+53270,astrophysicist
+53270,writer
+53270,educator
+53297,astrophysicist
+53297,cosmologist
+53522,astrophyscist
+53522,stellar mortician
+53580,entrepreneur
+53582,data scientist
+53582,entrepreneur
+53582,investor
+53583,e-governance expert
+53601,storyteller
+53601,dj
+53602,artist
+53602,video game creator
+53669,economist
+53669,policy influencer
+53740,psychologist
+53740,author
+54125,bioprocess engineer
+54153,immigration policy analyst
+54214,playwright
+54214,activist
+54262,writer
+54262,advocate
+54352,producer
+54353,education activist
+54353,entrepreneur
+54358,travel photographer
+54358,writer
+54358,host
+54394,actor and activist
+54513,synthetic biologist
+54706,tribologist
+54713,medical clown
+54715,head of ted
+54715,climate advocate
+54750,water protector
+54754,science and environment correspondent
+54838,gymnastics coach
+54863,hunger hero
+55027,human rights and disability activist
+55058,health policy expert
+55113,dangerous woman
+55342,productor audiovisual
+55544,ob/gyn
+55544,pain medicine physician
+55546,comparative anatomist
+55546,paleontologist
+55562,democracy advisor
+55562,author
+55793,technologist
+55993,entrepreneur
+55993,urban farmer
+56009,biological oceanographer
+56012,climate justice and human rights lawyer
+56368,holocaust survivor
+56368,magician
+56434,ecologist
+56527,health justice advocate
+56535,producer
+56629,economist
+56834,entrepreneur
+56834,technologist
+56901,human-elephant ambassador
+56959,interdisciplinary artist
+56988,professor of african american and diaspora studies
+57063,political cartoonist
+57144,urban planner
+57186,legal identity expert
+57364,playwright
+57364,performer
+57418,physicist
+57418,engineer
+57475,climate psychologist
+57604,science journalist
+57606,global health activist
+57734,design evangelist
+57908,paleobiologist
+57913,curator of architecture and design
+57914,author
+57915,science curator
+57915,author
+57916,design evangelist
+57917,reporter
+57918,graphic designer
+57920,food enthusiast
+57920,dishwasher
+57924,filmmaking pioneer
+58010,venture capitalist
+58010,writer
+58011,digital anthropologist
+58012,author
+58012,illustrator
+58013,cognitive psychologist
+58014,banking executive
+58015,economist
+58016,performer
+58016,author
+58016,storyteller
+58017,producer
+58018,gender equity expert
+58104,molecular animator
+58121,entrepreneur
+58361,digital security expert
+58446,public health leader
+58586,entrepreneur
+58704,neuroscientist
+58706,designer
+58884,biophysicist
+58884,neuroscientist
+58891,sex chromosome editor
+58979,women's rights activist
+59048,space chemist
+59050,experimental physicist
+59151,technologist
+59152,environmentalist
+59152,social entrepreneur
+59152,youth leadership advocate
+59153,tech strategist
+59155,global health fighter
+59159,writer
+59159,business systems consultant manager
+59779,professor
+59801,interplanetary navigator
+59862,neuroscientist
+59971,journalist
+59972,perception designer
+59980,communications consultant
+60021,legal scholar
+60021,writer
+60063,producer
+60080,journalist
+60081,social designer
+60084,epidemiologist
+60084,professor
+60135,analyst
+60183,social entrepreneur
+60184,activist
+60193,historian
+60310,neurodiversity advocate
+60315,human rights advocate
+60390,activist
+60390,student
+60405,biological anthropologist
+60416,education activist
+60422,digital marketing consultant
+60742,farmer
+60742,entrepreneur
+60752,author
+60774,author
+60774,journalist
+60835,electrical engineer
+60872,global health consultant
+60873,infectious disease scientist
+60873,head of ted
+60914,environmental activist
+61301,philanthropist
+61301,head of ted
+61301,ted current affairs curator
+61302,media executive
+61302,head of ted
+61302,ted current affairs curator
+61303,vaccine visionary
+61303,head of ted
+61303,ted current affairs curator
+61316,architect
+61357,researcher
+61357,author
+61930,writer
+61930,head of ted
+61930,curator
+61991,interdisciplinary researcher
+62149,classicist
+62149,political theorist
+62149,head of ted
+62149,business curator
+62263,law researcher
+62266,hedge fund chair
+62266,head of ted
+62266,business curator
+62270,architect
+62341,psychotherapist
+62341,psychosomatic psychiatrist
+62406,producer
+62627,artist
+62627,storyteller
+62628,political strategist
+62678,health activist
+62748,epidemiologist
+62748,philanthropist
+62748,head of ted
